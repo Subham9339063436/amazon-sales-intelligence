@@ -1,4 +1,4 @@
-# Amazon Sales Forecasting & Analytics
+# Amazon Sales Intelligence & Forecasting
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python](https://img.shields.io/badge/python-3.13-blue.svg)
@@ -6,17 +6,21 @@
 ![Docker](https://img.shields.io/badge/docker-ready-2496ED.svg)
 ![Tests](https://img.shields.io/badge/tests-64%20passing-brightgreen.svg)
 
-End-to-end demand-forecasting and analytics project built on ~3 years of
+End-to-end sales intelligence and demand-forecasting platform built on ~3 years of
 Amazon food-category sales data: **leakage-free feature engineering,
 chronological evaluation with walk-forward validation, classical + gradient
 boosting + Prophet + PyTorch models, an interactive Streamlit dashboard, a
 Flask REST API serving the trained checkpoint, and a Docker image that runs
 both.**
 
-> **Deployment status: DEPLOYMENT READY — NOT DEPLOYED.**
-> Everything below has been implemented, tested, and verified locally
-> (including Docker builds and container smoke tests). No cloud deployment
-> has been performed; see [Deployment](#15-deployment) for the runbooks.
+> **Status: DEPLOYMENT READY — NOT DEPLOYED.**
+> The application, tests, dashboard, REST API, and Docker workflow have been verified locally. No cloud deployment is claimed; see [Deployment](#15-deployment) for the runbooks.
+
+---
+
+![Architecture](docs/architecture.svg)
+
+> **Project snapshot:** 64 automated tests • 5 forecasting models • 4-tab Streamlit dashboard • Flask REST API • Dockerized runtime
 
 ---
 
