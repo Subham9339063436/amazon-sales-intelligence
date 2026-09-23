@@ -1,0 +1,1561 @@
+task,period,product,y_true,model,y_pred
+panel_product_month,2019-08,American Beef Bologna,347.54,pytorch_mlp,6684.51416015625
+panel_product_month,2019-11,American Beef Bologna,229.76,pytorch_mlp,8008.30712890625
+panel_product_month,2019-08,American Chicken Hot Dogs,316.92,pytorch_mlp,8303.052734375
+panel_product_month,2019-09,American Chicken Hot Dogs,407.68,pytorch_mlp,8371.2998046875
+panel_product_month,2019-11,American Chicken Hot Dogs,1221.16,pytorch_mlp,9055.17578125
+panel_product_month,2019-12,American Corned Beef,314.29,pytorch_mlp,7877.80908203125
+panel_product_month,2019-09,American Pimento Loaf,5237.45,pytorch_mlp,12171.8671875
+panel_product_month,2019-10,American Pimento Loaf,3212.15,pytorch_mlp,12947.2353515625
+panel_product_month,2019-11,American Pimento Loaf,2170.55,pytorch_mlp,12221.8583984375
+panel_product_month,2019-12,American Pimento Loaf,5262.49,pytorch_mlp,13855.4814453125
+panel_product_month,2019-08,American Potato Salad,1805.35,pytorch_mlp,9722.740234375
+panel_product_month,2019-09,American Potato Salad,1119.9099999999999,pytorch_mlp,10644.2978515625
+panel_product_month,2019-10,American Potato Salad,647.68,pytorch_mlp,10867.515625
+panel_product_month,2019-11,American Potato Salad,4382.3,pytorch_mlp,10305.7080078125
+panel_product_month,2019-12,American Potato Salad,647.68,pytorch_mlp,11446.12109375
+panel_product_month,2019-12,American Sliced Ham,207.28,pytorch_mlp,8548.70703125
+panel_product_month,2019-08,Applause Canned Mixed Fruit,213.52,pytorch_mlp,8276.81640625
+panel_product_month,2019-09,Applause Canned Mixed Fruit,1914.56,pytorch_mlp,8258.2109375
+panel_product_month,2019-10,Applause Canned Mixed Fruit,247.04,pytorch_mlp,9375.8701171875
+panel_product_month,2019-11,Applause Canned Mixed Fruit,2408.64,pytorch_mlp,9049.95703125
+panel_product_month,2019-12,Applause Canned Mixed Fruit,617.6,pytorch_mlp,9760.69921875
+panel_product_month,2019-09,Atomic Bubble Gum,663.02,pytorch_mlp,10645.208984375
+panel_product_month,2019-10,Atomic Bubble Gum,683.3,pytorch_mlp,10167.37109375
+panel_product_month,2019-11,Atomic Bubble Gum,802.89,pytorch_mlp,9631.896484375
+panel_product_month,2019-12,Atomic Bubble Gum,683.3,pytorch_mlp,9362.623046875
+panel_product_month,2019-08,Atomic Mint Chocolate Bar,34913.29,pytorch_mlp,57836.93359375
+panel_product_month,2019-09,Atomic Mint Chocolate Bar,59960.99,pytorch_mlp,40195.33984375
+panel_product_month,2019-10,Atomic Mint Chocolate Bar,49015.76,pytorch_mlp,47387.65625
+panel_product_month,2019-11,Atomic Mint Chocolate Bar,78338.41,pytorch_mlp,49533.265625
+panel_product_month,2019-12,Atomic Mint Chocolate Bar,55946.76,pytorch_mlp,66364.4296875
+panel_product_month,2019-08,Atomic Spicy Mints,11811.779999999999,pytorch_mlp,11794.603515625
+panel_product_month,2019-09,Atomic Spicy Mints,5369.92,pytorch_mlp,14001.517578125
+panel_product_month,2019-10,Atomic Spicy Mints,4097.3,pytorch_mlp,14443.7470703125
+panel_product_month,2019-11,Atomic Spicy Mints,4194.73,pytorch_mlp,15718.107421875
+panel_product_month,2019-12,Atomic Spicy Mints,5593.74,pytorch_mlp,12777.015625
+panel_product_month,2019-08,BBB Best Apple Butter,1094.19,pytorch_mlp,15032.251953125
+panel_product_month,2019-09,BBB Best Apple Butter,5997.57,pytorch_mlp,16553.1875
+panel_product_month,2019-10,BBB Best Apple Butter,3211.66,pytorch_mlp,12442.6025390625
+panel_product_month,2019-11,BBB Best Apple Butter,6118.62,pytorch_mlp,11421.4248046875
+panel_product_month,2019-12,BBB Best Apple Butter,3211.66,pytorch_mlp,14019.486328125
+panel_product_month,2019-11,BBB Best Apple Jam,271.36,pytorch_mlp,8034.19091796875
+panel_product_month,2019-08,BBB Best Apple Jelly,4473.01,pytorch_mlp,8307.03125
+panel_product_month,2019-09,BBB Best Apple Jelly,799.55,pytorch_mlp,9462.853515625
+panel_product_month,2019-11,BBB Best Apple Jelly,416.85,pytorch_mlp,10205.7138671875
+panel_product_month,2019-08,BBB Best Apple Preserves,32670.28,pytorch_mlp,40322.9609375
+panel_product_month,2019-09,BBB Best Apple Preserves,95957.28000000001,pytorch_mlp,42876.86328125
+panel_product_month,2019-10,BBB Best Apple Preserves,86029.86,pytorch_mlp,57200.61328125
+panel_product_month,2019-11,BBB Best Apple Preserves,72849.5,pytorch_mlp,64480.2109375
+panel_product_month,2019-12,BBB Best Apple Preserves,117758.2,pytorch_mlp,83815.75
+panel_product_month,2019-09,BBB Best Brown Sugar,360.55,pytorch_mlp,7532.326171875
+panel_product_month,2019-08,BBB Best Chunky Peanut Butter,8756.42,pytorch_mlp,10512.1875
+panel_product_month,2019-09,BBB Best Chunky Peanut Butter,12642.54,pytorch_mlp,12658.3310546875
+panel_product_month,2019-10,BBB Best Chunky Peanut Butter,2957.52,pytorch_mlp,16287.1220703125
+panel_product_month,2019-11,BBB Best Chunky Peanut Butter,14159.810000000001,pytorch_mlp,17122.7890625
+panel_product_month,2019-12,BBB Best Chunky Peanut Butter,4334.83,pytorch_mlp,20878.34765625
+panel_product_month,2019-08,BBB Best Creamy Peanut Butter,904.33,pytorch_mlp,8386.6630859375
+panel_product_month,2019-10,BBB Best Creamy Peanut Butter,1812.55,pytorch_mlp,9363.44921875
+panel_product_month,2019-11,BBB Best Creamy Peanut Butter,1456.26,pytorch_mlp,9748.4267578125
+panel_product_month,2019-12,BBB Best Creamy Peanut Butter,1812.55,pytorch_mlp,9753.501953125
+panel_product_month,2019-10,BBB Best Decaf Coffee,655.55,pytorch_mlp,8396.0537109375
+panel_product_month,2019-11,BBB Best Decaf Coffee,393.33,pytorch_mlp,8732.609375
+panel_product_month,2019-12,BBB Best Decaf Coffee,655.55,pytorch_mlp,8488.875
+panel_product_month,2019-08,BBB Best Extra Chunky Peanut Butter,18522.11,pytorch_mlp,16893.337890625
+panel_product_month,2019-09,BBB Best Extra Chunky Peanut Butter,8643.64,pytorch_mlp,21847.0625
+panel_product_month,2019-10,BBB Best Extra Chunky Peanut Butter,9878.46,pytorch_mlp,16232.103515625
+panel_product_month,2019-11,BBB Best Extra Chunky Peanut Butter,13042.66,pytorch_mlp,21062.06640625
+panel_product_month,2019-12,BBB Best Extra Chunky Peanut Butter,9878.46,pytorch_mlp,19009.521484375
+panel_product_month,2019-11,BBB Best Grape Jam,1235.91,pytorch_mlp,9244.1123046875
+panel_product_month,2019-08,BBB Best Grape Jelly,13295.47,pytorch_mlp,20959.17578125
+panel_product_month,2019-09,BBB Best Grape Jelly,5380.710000000001,pytorch_mlp,23617.931640625
+panel_product_month,2019-10,BBB Best Grape Jelly,20348.59,pytorch_mlp,23539.39453125
+panel_product_month,2019-11,BBB Best Grape Jelly,14099.97,pytorch_mlp,22920.7890625
+panel_product_month,2019-12,BBB Best Grape Jelly,21698.420000000002,pytorch_mlp,22439.1875
+panel_product_month,2019-09,BBB Best Grape Preserves,5090.57,pytorch_mlp,9064.80078125
+panel_product_month,2019-10,BBB Best Grape Preserves,661.75,pytorch_mlp,9548.935546875
+panel_product_month,2019-12,BBB Best Grape Preserves,661.75,pytorch_mlp,9338.93359375
+panel_product_month,2019-11,BBB Best Low Fat Apple Butter,282.92,pytorch_mlp,8633.1396484375
+panel_product_month,2019-08,BBB Best Pepper,2288.91,pytorch_mlp,11764.470703125
+panel_product_month,2019-09,BBB Best Pepper,5283.860000000001,pytorch_mlp,11671.65625
+panel_product_month,2019-10,BBB Best Pepper,4314.94,pytorch_mlp,13077.0830078125
+panel_product_month,2019-11,BBB Best Pepper,2564.84,pytorch_mlp,13347.9169921875
+panel_product_month,2019-12,BBB Best Pepper,6310.74,pytorch_mlp,14030.1552734375
+panel_product_month,2019-08,BBB Best Salt,235.79,pytorch_mlp,7974.525390625
+panel_product_month,2019-10,BBB Best Salt,1143.58,pytorch_mlp,8878.16015625
+panel_product_month,2019-12,BBB Best Salt,1143.58,pytorch_mlp,9086.7978515625
+panel_product_month,2019-09,BBB Best Strawberry Jam,498.84,pytorch_mlp,7996.24853515625
+panel_product_month,2019-10,BBB Best Strawberry Jam,791.69,pytorch_mlp,8661.345703125
+panel_product_month,2019-11,BBB Best Strawberry Jam,223.11,pytorch_mlp,8633.0703125
+panel_product_month,2019-12,BBB Best Strawberry Jam,791.69,pytorch_mlp,8670.6357421875
+panel_product_month,2019-08,BBB Best Strawberry Jelly,2791.85,pytorch_mlp,9905.21875
+panel_product_month,2019-09,BBB Best Strawberry Jelly,4507.66,pytorch_mlp,10380.662109375
+panel_product_month,2019-10,BBB Best Strawberry Jelly,1841.55,pytorch_mlp,12236.177734375
+panel_product_month,2019-11,BBB Best Strawberry Jelly,4991.22,pytorch_mlp,11245.896484375
+panel_product_month,2019-12,BBB Best Strawberry Jelly,1841.55,pytorch_mlp,12011.0205078125
+panel_product_month,2019-10,BBB Best Strawberry Preserves,833.5,pytorch_mlp,9227.89453125
+panel_product_month,2019-12,BBB Best Strawberry Preserves,833.5,pytorch_mlp,9148.2001953125
+panel_product_month,2019-08,BBB Best Tomato Sauce,2874.64,pytorch_mlp,7838.8837890625
+panel_product_month,2019-09,BBB Best Tomato Sauce,3037.74,pytorch_mlp,8988.5712890625
+panel_product_month,2019-10,BBB Best Tomato Sauce,2226.91,pytorch_mlp,10849.541015625
+panel_product_month,2019-11,BBB Best Tomato Sauce,8371.1,pytorch_mlp,10956.7158203125
+panel_product_month,2019-12,BBB Best Tomato Sauce,2902.38,pytorch_mlp,12318.1923828125
+panel_product_month,2019-09,BBB Best Vegetable Oil,415.56,pytorch_mlp,7432.3916015625
+panel_product_month,2019-08,Best Choice Apple Fruit Roll,271.27,pytorch_mlp,7115.0
+panel_product_month,2019-09,Best Choice Apple Fruit Roll,836.56,pytorch_mlp,7445.71435546875
+panel_product_month,2019-10,Best Choice Apple Fruit Roll,496.74,pytorch_mlp,8514.48828125
+panel_product_month,2019-11,Best Choice Apple Fruit Roll,613.5799999999999,pytorch_mlp,8466.451171875
+panel_product_month,2019-12,Best Choice Apple Fruit Roll,496.74,pytorch_mlp,8760.40625
+panel_product_month,2019-12,Best Choice BBQ Potato Chips,437.22,pytorch_mlp,8158.90087890625
+panel_product_month,2019-08,Best Choice Cheese Crackers,217.24,pytorch_mlp,7236.263671875
+panel_product_month,2019-08,Best Choice Chocolate Chip Cookies,7310.83,pytorch_mlp,14181.6650390625
+panel_product_month,2019-09,Best Choice Chocolate Chip Cookies,3517.68,pytorch_mlp,13908.64453125
+panel_product_month,2019-10,Best Choice Chocolate Chip Cookies,981.47,pytorch_mlp,15358.0546875
+panel_product_month,2019-11,Best Choice Chocolate Chip Cookies,5389.96,pytorch_mlp,13522.8193359375
+panel_product_month,2019-12,Best Choice Chocolate Chip Cookies,981.47,pytorch_mlp,12788.34765625
+panel_product_month,2019-11,Best Choice Chocolate Donuts,753.49,pytorch_mlp,8670.9609375
+panel_product_month,2019-08,Best Choice Corn Chips,3993.58,pytorch_mlp,12015.4697265625
+panel_product_month,2019-09,Best Choice Corn Chips,4055.7999999999997,pytorch_mlp,12394.8662109375
+panel_product_month,2019-10,Best Choice Corn Chips,4445.05,pytorch_mlp,12043.54296875
+panel_product_month,2019-11,Best Choice Corn Chips,10046.17,pytorch_mlp,12602.4912109375
+panel_product_month,2019-12,Best Choice Corn Chips,7440.23,pytorch_mlp,15690.125
+panel_product_month,2019-08,Best Choice Frosted Donuts,1331.8600000000001,pytorch_mlp,7290.96142578125
+panel_product_month,2019-10,Best Choice Frosted Donuts,3773.64,pytorch_mlp,8787.6796875
+panel_product_month,2019-11,Best Choice Frosted Donuts,1584.72,pytorch_mlp,9416.90625
+panel_product_month,2019-12,Best Choice Frosted Donuts,3773.64,pytorch_mlp,9663.435546875
+panel_product_month,2019-08,Best Choice Fudge Cookies,6209.58,pytorch_mlp,8816.4189453125
+panel_product_month,2019-09,Best Choice Fudge Cookies,1102.82,pytorch_mlp,10241.2353515625
+panel_product_month,2019-10,Best Choice Fudge Cookies,496.74,pytorch_mlp,10173.7041015625
+panel_product_month,2019-11,Best Choice Fudge Cookies,2313.99,pytorch_mlp,11003.0419921875
+panel_product_month,2019-12,Best Choice Fudge Cookies,496.74,pytorch_mlp,9337.80859375
+panel_product_month,2019-08,Best Choice Golden Raisins,3524.81,pytorch_mlp,8701.072265625
+panel_product_month,2019-09,Best Choice Golden Raisins,938.83,pytorch_mlp,9516.853515625
+panel_product_month,2019-10,Best Choice Golden Raisins,1645.1,pytorch_mlp,9624.9375
+panel_product_month,2019-11,Best Choice Golden Raisins,1240.7,pytorch_mlp,10278.6630859375
+panel_product_month,2019-12,Best Choice Golden Raisins,1645.1,pytorch_mlp,9207.5830078125
+panel_product_month,2019-08,Best Choice Low Fat BBQ Chips,517.4,pytorch_mlp,7441.66796875
+panel_product_month,2019-11,Best Choice Low Fat BBQ Chips,21556.92,pytorch_mlp,9584.234375
+panel_product_month,2019-08,Best Choice Low Fat Chips,226.51,pytorch_mlp,7126.39208984375
+panel_product_month,2019-10,Best Choice Low Fat Chips,496.74,pytorch_mlp,8270.771484375
+panel_product_month,2019-11,Best Choice Low Fat Chips,509.65,pytorch_mlp,8612.505859375
+panel_product_month,2019-12,Best Choice Low Fat Chips,496.74,pytorch_mlp,8500.4765625
+panel_product_month,2019-08,Best Choice Low Fat Cookies,211.54,pytorch_mlp,7265.94140625
+panel_product_month,2019-09,Best Choice Potato Chips,636.18,pytorch_mlp,7012.3798828125
+panel_product_month,2019-11,Best Choice Potato Chips,673.12,pytorch_mlp,7784.9208984375
+panel_product_month,2019-09,Best Choice Salted Pretzels,5746.69,pytorch_mlp,13025.0712890625
+panel_product_month,2019-08,Best Choice Sugar Cookies,10951.560000000001,pytorch_mlp,15645.5400390625
+panel_product_month,2019-09,Best Choice Sugar Cookies,12520.07,pytorch_mlp,17068.60546875
+panel_product_month,2019-10,Best Choice Sugar Cookies,8304.96,pytorch_mlp,17835.3828125
+panel_product_month,2019-11,Best Choice Sugar Cookies,15274.939999999999,pytorch_mlp,20922.275390625
+panel_product_month,2019-12,Best Choice Sugar Cookies,12538.17,pytorch_mlp,23110.16015625
+panel_product_month,2019-09,Best Grits,206.04,pytorch_mlp,7486.64306640625
+panel_product_month,2019-08,Best Oatmeal,2767.73,pytorch_mlp,10469.189453125
+panel_product_month,2019-09,Best Oatmeal,2961.9300000000003,pytorch_mlp,11322.04296875
+panel_product_month,2019-10,Best Oatmeal,3484.6600000000003,pytorch_mlp,12081.96875
+panel_product_month,2019-11,Best Oatmeal,765.85,pytorch_mlp,12573.9697265625
+panel_product_month,2019-12,Best Oatmeal,4219.96,pytorch_mlp,11774.7919921875
+panel_product_month,2019-08,Best Wheat Puffs,354.98,pytorch_mlp,6827.48779296875
+panel_product_month,2019-09,Best Wheat Puffs,708.66,pytorch_mlp,7098.296875
+panel_product_month,2019-10,Best Wheat Puffs,464.7,pytorch_mlp,8100.32275390625
+panel_product_month,2019-11,Best Wheat Puffs,3543.81,pytorch_mlp,8420.1220703125
+panel_product_month,2019-12,Best Wheat Puffs,685.45,pytorch_mlp,9307.7578125
+panel_product_month,2019-08,Better Beef Soup,10803.93,pytorch_mlp,18341.876953125
+panel_product_month,2019-09,Better Beef Soup,26541.92,pytorch_mlp,11675.1083984375
+panel_product_month,2019-10,Better Beef Soup,8737.02,pytorch_mlp,19260.8984375
+panel_product_month,2019-11,Better Beef Soup,37090.64,pytorch_mlp,20999.125
+panel_product_month,2019-12,Better Beef Soup,8737.02,pytorch_mlp,32068.6875
+panel_product_month,2019-08,Better Canned Beets,212.87,pytorch_mlp,6669.68701171875
+panel_product_month,2019-08,Better Canned String Beans,220.22,pytorch_mlp,6596.36279296875
+panel_product_month,2019-09,Better Canned String Beans,220.22,pytorch_mlp,6752.29541015625
+panel_product_month,2019-10,Better Canned String Beans,228.26,pytorch_mlp,7655.6708984375
+panel_product_month,2019-12,Better Canned String Beans,228.26,pytorch_mlp,7919.55029296875
+panel_product_month,2019-09,Better Canned Tuna in Water,522.77,pytorch_mlp,8279.54296875
+panel_product_month,2019-10,Better Canned Tuna in Water,564.58,pytorch_mlp,9006.87890625
+panel_product_month,2019-11,Better Canned Tuna in Water,1076.8899999999999,pytorch_mlp,9153.4609375
+panel_product_month,2019-12,Better Canned Tuna in Water,564.58,pytorch_mlp,9138.7734375
+panel_product_month,2019-08,Better Canned Yams,204.88,pytorch_mlp,6590.57177734375
+panel_product_month,2019-10,Better Fancy Canned Anchovies,210.36,pytorch_mlp,8864.794921875
+panel_product_month,2019-12,Better Fancy Canned Anchovies,210.36,pytorch_mlp,8814.8662109375
+panel_product_month,2019-10,Better Fancy Canned Clams,3076.34,pytorch_mlp,9480.4853515625
+panel_product_month,2019-11,Better Fancy Canned Clams,230.65,pytorch_mlp,10651.6015625
+panel_product_month,2019-12,Better Fancy Canned Clams,3076.34,pytorch_mlp,9348.0947265625
+panel_product_month,2019-08,Better Fancy Canned Sardines,126190.98,pytorch_mlp,149827.890625
+panel_product_month,2019-09,Better Fancy Canned Sardines,178116.15,pytorch_mlp,170529.6875
+panel_product_month,2019-10,Better Fancy Canned Sardines,191136.88,pytorch_mlp,149614.078125
+panel_product_month,2019-11,Better Fancy Canned Sardines,189897.25,pytorch_mlp,147921.90625
+panel_product_month,2019-12,Better Fancy Canned Sardines,199546.16999999998,pytorch_mlp,171753.59375
+panel_product_month,2019-08,Better Large Canned Shrimp,1430.0099999999998,pytorch_mlp,8248.025390625
+panel_product_month,2019-09,Better Large Canned Shrimp,236.58,pytorch_mlp,8422.9599609375
+panel_product_month,2019-10,Better Large Canned Shrimp,323.65,pytorch_mlp,9276.6767578125
+panel_product_month,2019-11,Better Large Canned Shrimp,582.01,pytorch_mlp,9244.5703125
+panel_product_month,2019-12,Better Large Canned Shrimp,323.65,pytorch_mlp,8817.67578125
+panel_product_month,2019-08,Better Noodle Soup,270.37,pytorch_mlp,7207.83544921875
+panel_product_month,2019-09,Better Noodle Soup,1084.3,pytorch_mlp,7144.92919921875
+panel_product_month,2019-10,Better Noodle Soup,943.54,pytorch_mlp,8334.185546875
+panel_product_month,2019-11,Better Noodle Soup,204.94,pytorch_mlp,8519.3134765625
+panel_product_month,2019-12,Better Noodle Soup,943.54,pytorch_mlp,8579.9638671875
+panel_product_month,2019-08,Better Rice Soup,247.28,pytorch_mlp,7772.32373046875
+panel_product_month,2019-10,Better Vegetable Soup,224.28,pytorch_mlp,8129.79248046875
+panel_product_month,2019-11,Better Vegetable Soup,387.76,pytorch_mlp,8323.505859375
+panel_product_month,2019-12,Better Vegetable Soup,224.28,pytorch_mlp,8286.091796875
+panel_product_month,2019-08,Big Time Apple Cinnamon Waffles,4020.3100000000004,pytorch_mlp,10986.66015625
+panel_product_month,2019-09,Big Time Apple Cinnamon Waffles,9657.74,pytorch_mlp,12105.25
+panel_product_month,2019-10,Big Time Apple Cinnamon Waffles,7906.36,pytorch_mlp,13266.6044921875
+panel_product_month,2019-11,Big Time Apple Cinnamon Waffles,7763.86,pytorch_mlp,13636.6572265625
+panel_product_month,2019-12,Big Time Apple Cinnamon Waffles,11509.98,pytorch_mlp,14852.162109375
+panel_product_month,2019-08,Big Time Beef TV Dinner,1100.81,pytorch_mlp,9497.0625
+panel_product_month,2019-09,Big Time Beef TV Dinner,5812.1,pytorch_mlp,9986.2939453125
+panel_product_month,2019-10,Big Time Beef TV Dinner,2415.14,pytorch_mlp,10609.4140625
+panel_product_month,2019-11,Big Time Beef TV Dinner,5564.07,pytorch_mlp,10808.138671875
+panel_product_month,2019-12,Big Time Beef TV Dinner,3360.29,pytorch_mlp,12303.974609375
+panel_product_month,2019-08,Big Time Chicken TV Dinner,570.6,pytorch_mlp,6839.173828125
+panel_product_month,2019-09,Big Time Chicken TV Dinner,228.05,pytorch_mlp,7178.3056640625
+panel_product_month,2019-10,Big Time Chicken TV Dinner,680.22,pytorch_mlp,7795.97265625
+panel_product_month,2019-11,Big Time Chicken TV Dinner,1355.81,pytorch_mlp,8129.2568359375
+panel_product_month,2019-12,Big Time Chicken TV Dinner,680.22,pytorch_mlp,8354.06640625
+panel_product_month,2019-10,Big Time Frozen Broccoli,316.59,pytorch_mlp,8960.08984375
+panel_product_month,2019-12,Big Time Frozen Broccoli,316.59,pytorch_mlp,8905.0595703125
+panel_product_month,2019-10,Big Time Frozen Cauliflower,763.2,pytorch_mlp,8164.677734375
+panel_product_month,2019-12,Big Time Frozen Cauliflower,763.2,pytorch_mlp,8383.609375
+panel_product_month,2019-08,Big Time Frozen Cheese Pizza,259846.86000000002,pytorch_mlp,114813.6171875
+panel_product_month,2019-09,Big Time Frozen Cheese Pizza,275872.86,pytorch_mlp,155116.421875
+panel_product_month,2019-10,Big Time Frozen Cheese Pizza,133836.99,pytorch_mlp,198873.421875
+panel_product_month,2019-11,Big Time Frozen Cheese Pizza,4882.98,pytorch_mlp,193305.515625
+panel_product_month,2019-12,Big Time Frozen Cheese Pizza,145317.56,pytorch_mlp,143233.59375
+panel_product_month,2019-08,Big Time Frozen Chicken Thighs,464.02,pytorch_mlp,7513.67529296875
+panel_product_month,2019-10,Big Time Frozen Chicken Thighs,528.98,pytorch_mlp,8600.1376953125
+panel_product_month,2019-12,Big Time Frozen Chicken Thighs,528.98,pytorch_mlp,8713.298828125
+panel_product_month,2019-11,Big Time Frozen Mushroom Pizza,210.82,pytorch_mlp,8770.3828125
+panel_product_month,2019-08,Big Time Frozen Peas,147513.6,pytorch_mlp,76297.2890625
+panel_product_month,2019-10,Big Time Frozen Peas,5900.54,pytorch_mlp,119438.84375
+panel_product_month,2019-11,Big Time Frozen Peas,289126.66000000003,pytorch_mlp,84931.21875
+panel_product_month,2019-12,Big Time Frozen Peas,5900.54,pytorch_mlp,150538.546875
+panel_product_month,2019-08,Big Time Grape Popsicles,1048.46,pytorch_mlp,8023.7109375
+panel_product_month,2019-09,Big Time Grape Popsicles,1589.86,pytorch_mlp,8379.267578125
+panel_product_month,2019-10,Big Time Grape Popsicles,1704.89,pytorch_mlp,8813.615234375
+panel_product_month,2019-11,Big Time Grape Popsicles,5848.36,pytorch_mlp,9215.52734375
+panel_product_month,2019-12,Big Time Grape Popsicles,2178.4900000000002,pytorch_mlp,10471.1005859375
+panel_product_month,2019-08,Big Time Home Style French Fries,7535.29,pytorch_mlp,14502.396484375
+panel_product_month,2019-09,Big Time Home Style French Fries,11475.45,pytorch_mlp,15848.94921875
+panel_product_month,2019-10,Big Time Home Style French Fries,7179.98,pytorch_mlp,16985.556640625
+panel_product_month,2019-11,Big Time Home Style French Fries,6246.42,pytorch_mlp,15867.921875
+panel_product_month,2019-12,Big Time Home Style French Fries,7717.9,pytorch_mlp,15935.236328125
+panel_product_month,2019-08,Big Time Ice Cream,2192.29,pytorch_mlp,7998.0146484375
+panel_product_month,2019-09,Big Time Ice Cream,1678.28,pytorch_mlp,8832.9970703125
+panel_product_month,2019-10,Big Time Ice Cream,3713.45,pytorch_mlp,9519.587890625
+panel_product_month,2019-11,Big Time Ice Cream,465.21,pytorch_mlp,10534.400390625
+panel_product_month,2019-12,Big Time Ice Cream,4126.97,pytorch_mlp,9728.7255859375
+panel_product_month,2019-10,Big Time Ice Cream Sandwich,3629.76,pytorch_mlp,9260.333984375
+panel_product_month,2019-11,Big Time Ice Cream Sandwich,1475.46,pytorch_mlp,10011.59765625
+panel_product_month,2019-12,Big Time Ice Cream Sandwich,3629.76,pytorch_mlp,9602.681640625
+panel_product_month,2019-09,Big Time Lemon Popsicles,214.41,pytorch_mlp,6701.92724609375
+panel_product_month,2019-09,Big Time Lime Popsicles,664.07,pytorch_mlp,8627.1318359375
+panel_product_month,2019-09,Big Time Pancake Mix,283.96,pytorch_mlp,6880.72119140625
+panel_product_month,2019-12,Big Time Pancake Mix,283.96,pytorch_mlp,8055.33154296875
+panel_product_month,2019-08,Big Time Waffles,239.54,pytorch_mlp,7307.14404296875
+panel_product_month,2019-08,Blue Label Canned Beets,4717.81,pytorch_mlp,13297.08203125
+panel_product_month,2019-09,Blue Label Canned Beets,9593.79,pytorch_mlp,13724.85546875
+panel_product_month,2019-10,Blue Label Canned Beets,10650.27,pytorch_mlp,17212.40625
+panel_product_month,2019-11,Blue Label Canned Beets,3859.74,pytorch_mlp,18353.8203125
+panel_product_month,2019-12,Blue Label Canned Beets,10650.27,pytorch_mlp,18932.666015625
+panel_product_month,2019-08,Blue Label Fancy Canned Oysters,3203.77,pytorch_mlp,7802.4111328125
+panel_product_month,2019-09,Blue Label Fancy Canned Oysters,968.4499999999999,pytorch_mlp,8799.603515625
+panel_product_month,2019-10,Blue Label Fancy Canned Oysters,1754.47,pytorch_mlp,9769.564453125
+panel_product_month,2019-11,Blue Label Fancy Canned Oysters,315.92,pytorch_mlp,9634.0986328125
+panel_product_month,2019-12,Blue Label Fancy Canned Oysters,1754.47,pytorch_mlp,9247.283203125
+panel_product_month,2019-11,Blue Label Noodle Soup,411.11,pytorch_mlp,8893.7890625
+panel_product_month,2019-09,Blue Label Regular Ramen Soup,242.76,pytorch_mlp,8607.2734375
+panel_product_month,2019-10,Blue Label Regular Ramen Soup,508.78,pytorch_mlp,9436.03515625
+panel_product_month,2019-11,Blue Label Regular Ramen Soup,258.25,pytorch_mlp,9154.150390625
+panel_product_month,2019-12,Blue Label Regular Ramen Soup,508.78,pytorch_mlp,8799.876953125
+panel_product_month,2019-08,Blue Label Turkey Noodle Soup,2119.24,pytorch_mlp,11271.15234375
+panel_product_month,2019-09,Blue Label Turkey Noodle Soup,3012.41,pytorch_mlp,11178.3955078125
+panel_product_month,2019-10,Blue Label Turkey Noodle Soup,2261.31,pytorch_mlp,11125.388671875
+panel_product_month,2019-11,Blue Label Turkey Noodle Soup,2159.59,pytorch_mlp,11427.708984375
+panel_product_month,2019-12,Blue Label Turkey Noodle Soup,2261.31,pytorch_mlp,10793.29296875
+panel_product_month,2019-09,Blue Medal Small Brown Eggs,387.75,pytorch_mlp,7325.515625
+panel_product_month,2019-10,Blue Medal Small Brown Eggs,333.05,pytorch_mlp,7998.54541015625
+panel_product_month,2019-11,Blue Medal Small Brown Eggs,990.8799999999999,pytorch_mlp,8190.55224609375
+panel_product_month,2019-12,Blue Medal Small Brown Eggs,333.05,pytorch_mlp,8385.5703125
+panel_product_month,2019-10,Blue Medal Small Eggs,320.63,pytorch_mlp,7805.796875
+panel_product_month,2019-12,Blue Medal Small Eggs,320.63,pytorch_mlp,8081.7529296875
+panel_product_month,2019-10,Bravo Canned Beets,377.4,pytorch_mlp,7915.93212890625
+panel_product_month,2019-11,Bravo Canned Beets,387.76,pytorch_mlp,8211.4140625
+panel_product_month,2019-12,Bravo Canned Beets,377.4,pytorch_mlp,8162.5068359375
+panel_product_month,2019-08,Bravo Canned Tomatos,8740.28,pytorch_mlp,17126.958984375
+panel_product_month,2019-09,Bravo Canned Tomatos,21053.4,pytorch_mlp,17383.96484375
+panel_product_month,2019-10,Bravo Canned Tomatos,15262.31,pytorch_mlp,22004.421875
+panel_product_month,2019-11,Bravo Canned Tomatos,11211.92,pytorch_mlp,21312.9453125
+panel_product_month,2019-12,Bravo Canned Tomatos,17488.51,pytorch_mlp,23526.48046875
+panel_product_month,2019-08,Bravo Canned Yams,18927.32,pytorch_mlp,27361.169921875
+panel_product_month,2019-09,Bravo Canned Yams,20416.899999999998,pytorch_mlp,26320.61328125
+panel_product_month,2019-10,Bravo Canned Yams,22784.41,pytorch_mlp,30178.0078125
+panel_product_month,2019-11,Bravo Canned Yams,22369.82,pytorch_mlp,29807.32421875
+panel_product_month,2019-12,Bravo Canned Yams,28396.57,pytorch_mlp,31220.75
+panel_product_month,2019-09,Bravo Fancy Canned Oysters,622.27,pytorch_mlp,7772.673828125
+panel_product_month,2019-11,Bravo Fancy Canned Oysters,622.27,pytorch_mlp,8912.5625
+panel_product_month,2019-08,Bravo Large Canned Shrimp,74757.27,pytorch_mlp,109670.1796875
+panel_product_month,2019-09,Bravo Large Canned Shrimp,95711.54,pytorch_mlp,110610.640625
+panel_product_month,2019-10,Bravo Large Canned Shrimp,92577.31999999999,pytorch_mlp,126645.90625
+panel_product_month,2019-11,Bravo Large Canned Shrimp,56905.59,pytorch_mlp,82270.6875
+panel_product_month,2019-12,Bravo Large Canned Shrimp,97044.49,pytorch_mlp,81101.7578125
+panel_product_month,2019-10,Bravo Vegetable Soup,1043.47,pytorch_mlp,8208.28125
+panel_product_month,2019-12,Bravo Vegetable Soup,1043.47,pytorch_mlp,8609.2998046875
+panel_product_month,2019-09,Carlson 1% Milk,829.44,pytorch_mlp,7561.23193359375
+panel_product_month,2019-08,Carlson 2% Milk,401.16,pytorch_mlp,8625.5556640625
+panel_product_month,2019-09,Carlson 2% Milk,463.03,pytorch_mlp,8999.623046875
+panel_product_month,2019-11,Carlson 2% Milk,754.19,pytorch_mlp,10048.9609375
+panel_product_month,2019-09,Carlson Blueberry Yogurt,1172.8700000000001,pytorch_mlp,8755.03125
+panel_product_month,2019-10,Carlson Blueberry Yogurt,401.16,pytorch_mlp,10048.60546875
+panel_product_month,2019-11,Carlson Blueberry Yogurt,802.32,pytorch_mlp,10245.9365234375
+panel_product_month,2019-12,Carlson Blueberry Yogurt,802.32,pytorch_mlp,10644.90625
+panel_product_month,2019-08,Carlson Buttermilk,413.83,pytorch_mlp,9013.806640625
+panel_product_month,2019-09,Carlson Buttermilk,810.77,pytorch_mlp,9478.3623046875
+panel_product_month,2019-10,Carlson Buttermilk,2398.52,pytorch_mlp,9662.3291015625
+panel_product_month,2019-11,Carlson Buttermilk,778.26,pytorch_mlp,10797.1875
+panel_product_month,2019-12,Carlson Buttermilk,2799.6800000000003,pytorch_mlp,11074.5966796875
+panel_product_month,2019-08,Carlson Cheese Spread,4171.79,pytorch_mlp,9570.1318359375
+panel_product_month,2019-09,Carlson Cheese Spread,2473.9,pytorch_mlp,11460.4384765625
+panel_product_month,2019-10,Carlson Cheese Spread,3444.03,pytorch_mlp,11468.65234375
+panel_product_month,2019-11,Carlson Cheese Spread,1688.05,pytorch_mlp,12496.2705078125
+panel_product_month,2019-12,Carlson Cheese Spread,3444.03,pytorch_mlp,12780.4716796875
+panel_product_month,2019-08,Carlson Havarti Cheese,794.3900000000001,pytorch_mlp,8732.6328125
+panel_product_month,2019-09,Carlson Havarti Cheese,401.16,pytorch_mlp,9329.9765625
+panel_product_month,2019-10,Carlson Havarti Cheese,463.03,pytorch_mlp,9269.2861328125
+panel_product_month,2019-11,Carlson Havarti Cheese,798.5699999999999,pytorch_mlp,10064.25390625
+panel_product_month,2019-12,Carlson Havarti Cheese,463.03,pytorch_mlp,10142.6142578125
+panel_product_month,2019-08,Carlson Jack Cheese,1399.66,pytorch_mlp,9502.4091796875
+panel_product_month,2019-09,Carlson Jack Cheese,1623.89,pytorch_mlp,9317.578125
+panel_product_month,2019-10,Carlson Jack Cheese,1200.52,pytorch_mlp,10036.990234375
+panel_product_month,2019-11,Carlson Jack Cheese,1622.45,pytorch_mlp,10133.84765625
+panel_product_month,2019-12,Carlson Jack Cheese,1200.52,pytorch_mlp,11374.80859375
+panel_product_month,2019-08,Carlson Large Curd Cottage Cheese,444.5,pytorch_mlp,8300.439453125
+panel_product_month,2019-09,Carlson Large Curd Cottage Cheese,401.16,pytorch_mlp,9278.1142578125
+panel_product_month,2019-10,Carlson Large Curd Cottage Cheese,401.16,pytorch_mlp,9337.2802734375
+panel_product_month,2019-12,Carlson Large Curd Cottage Cheese,401.16,pytorch_mlp,10196.607421875
+panel_product_month,2019-09,Carlson Low Fat Cottage Cheese,1687.63,pytorch_mlp,9465.32421875
+panel_product_month,2019-10,Carlson Low Fat Cottage Cheese,422.28,pytorch_mlp,10350.470703125
+panel_product_month,2019-11,Carlson Low Fat Cottage Cheese,463.03,pytorch_mlp,9878.02734375
+panel_product_month,2019-12,Carlson Low Fat Cottage Cheese,422.28,pytorch_mlp,10654.2265625
+panel_product_month,2019-09,Carlson Low Fat Sour Cream,463.03,pytorch_mlp,9052.568359375
+panel_product_month,2019-10,Carlson Low Fat Sour Cream,463.03,pytorch_mlp,9056.03125
+panel_product_month,2019-11,Carlson Low Fat Sour Cream,463.03,pytorch_mlp,9356.31640625
+panel_product_month,2019-12,Carlson Low Fat Sour Cream,463.03,pytorch_mlp,10040.55078125
+panel_product_month,2019-10,Carlson Low Fat String Cheese,309.31,pytorch_mlp,7968.14697265625
+panel_product_month,2019-12,Carlson Low Fat String Cheese,309.31,pytorch_mlp,8202.369140625
+panel_product_month,2019-08,Carlson Mild Cheddar Cheese,2385.77,pytorch_mlp,9646.2021484375
+panel_product_month,2019-09,Carlson Mild Cheddar Cheese,1198.16,pytorch_mlp,10485.708984375
+panel_product_month,2019-10,Carlson Mild Cheddar Cheese,1202.6399999999999,pytorch_mlp,11102.6708984375
+panel_product_month,2019-11,Carlson Mild Cheddar Cheese,1522.4,pytorch_mlp,11303.017578125
+panel_product_month,2019-12,Carlson Mild Cheddar Cheese,1202.6399999999999,pytorch_mlp,11153.310546875
+panel_product_month,2019-08,Carlson Muenster Cheese,515.63,pytorch_mlp,8791.1103515625
+panel_product_month,2019-09,Carlson Muenster Cheese,401.16,pytorch_mlp,9224.4677734375
+panel_product_month,2019-11,Carlson Muenster Cheese,247.1,pytorch_mlp,9783.267578125
+panel_product_month,2019-08,Carlson Sharp Cheddar Cheese,810.77,pytorch_mlp,8897.080078125
+panel_product_month,2019-09,Carlson Sour Cream,806.55,pytorch_mlp,9387.0224609375
+panel_product_month,2019-11,Carlson Sour Cream,444.5,pytorch_mlp,9766.16015625
+panel_product_month,2019-10,Carlson Strawberry Yogurt,802.32,pytorch_mlp,9630.4921875
+panel_product_month,2019-12,Carlson Strawberry Yogurt,802.32,pytorch_mlp,10499.7958984375
+panel_product_month,2019-08,Carlson String Cheese,864.19,pytorch_mlp,9989.048828125
+panel_product_month,2019-09,Carlson String Cheese,1617.81,pytorch_mlp,11095.6552734375
+panel_product_month,2019-10,Carlson String Cheese,2007.46,pytorch_mlp,11440.9833984375
+panel_product_month,2019-11,Carlson String Cheese,2739.95,pytorch_mlp,11049.2275390625
+panel_product_month,2019-12,Carlson String Cheese,2007.46,pytorch_mlp,12002.248046875
+panel_product_month,2019-09,Choice Mints,221.58,pytorch_mlp,8024.72802734375
+panel_product_month,2019-08,Choice Spicy Mints,294.14,pytorch_mlp,10650.9482421875
+panel_product_month,2019-08,Club Cheese Spread,7912.42,pytorch_mlp,37812.61328125
+panel_product_month,2019-09,Club Cheese Spread,38411.17,pytorch_mlp,42225.671875
+panel_product_month,2019-10,Club Cheese Spread,17138.53,pytorch_mlp,33684.08203125
+panel_product_month,2019-11,Club Cheese Spread,6932.33,pytorch_mlp,25868.47265625
+panel_product_month,2019-12,Club Cheese Spread,17138.53,pytorch_mlp,29215.8046875
+panel_product_month,2019-08,Club Havarti Cheese,8850.119999999999,pytorch_mlp,6419.693359375
+panel_product_month,2019-09,Club Havarti Cheese,5925.34,pytorch_mlp,7623.0302734375
+panel_product_month,2019-10,Club Havarti Cheese,2929.55,pytorch_mlp,7309.4765625
+panel_product_month,2019-11,Club Havarti Cheese,15863.78,pytorch_mlp,8755.369140625
+panel_product_month,2019-12,Club Havarti Cheese,6862.9400000000005,pytorch_mlp,11897.98046875
+panel_product_month,2019-08,Club Head Cheese,3800.9,pytorch_mlp,9624.85546875
+panel_product_month,2019-09,Club Head Cheese,6968.33,pytorch_mlp,11757.005859375
+panel_product_month,2019-10,Club Head Cheese,3064.99,pytorch_mlp,12749.4248046875
+panel_product_month,2019-11,Club Head Cheese,12898.07,pytorch_mlp,11966.14453125
+panel_product_month,2019-12,Club Head Cheese,3064.99,pytorch_mlp,16462.896484375
+panel_product_month,2019-08,Club Jack Cheese,3854.1,pytorch_mlp,8232.7841796875
+panel_product_month,2019-09,Club Jack Cheese,1854.0,pytorch_mlp,9452.3212890625
+panel_product_month,2019-10,Club Jack Cheese,3231.15,pytorch_mlp,10015.625
+panel_product_month,2019-11,Club Jack Cheese,3330.8,pytorch_mlp,10929.5986328125
+panel_product_month,2019-12,Club Jack Cheese,3231.15,pytorch_mlp,10342.1728515625
+panel_product_month,2019-09,Club Low Fat Cottage Cheese,408.0,pytorch_mlp,7201.1806640625
+panel_product_month,2019-09,Club Low Fat String Cheese,5831.72,pytorch_mlp,10629.197265625
+panel_product_month,2019-10,Club Low Fat String Cheese,6479.69,pytorch_mlp,11169.240234375
+panel_product_month,2019-12,Club Low Fat String Cheese,6479.69,pytorch_mlp,12387.759765625
+panel_product_month,2019-08,Club Muenster Cheese,17135.47,pytorch_mlp,29531.37890625
+panel_product_month,2019-09,Club Muenster Cheese,13715.24,pytorch_mlp,27833.27734375
+panel_product_month,2019-10,Club Muenster Cheese,69223.1,pytorch_mlp,30954.90625
+panel_product_month,2019-11,Club Muenster Cheese,39934.020000000004,pytorch_mlp,39393.7890625
+panel_product_month,2019-12,Club Muenster Cheese,76080.72,pytorch_mlp,42640.2734375
+panel_product_month,2019-08,Club Sharp Cheddar Cheese,28946.01,pytorch_mlp,27475.21484375
+panel_product_month,2019-09,Club Sharp Cheddar Cheese,32212.25,pytorch_mlp,44057.71875
+panel_product_month,2019-10,Club Sharp Cheddar Cheese,21284.79,pytorch_mlp,30754.15625
+panel_product_month,2019-11,Club Sharp Cheddar Cheese,17374.83,pytorch_mlp,35240.01171875
+panel_product_month,2019-12,Club Sharp Cheddar Cheese,22388.79,pytorch_mlp,33751.0859375
+panel_product_month,2019-08,Club Sour Cream,7377.75,pytorch_mlp,4884.8046875
+panel_product_month,2019-08,Club String Cheese,2561.1800000000003,pytorch_mlp,9050.1142578125
+panel_product_month,2019-09,Club String Cheese,4097.9,pytorch_mlp,10373.322265625
+panel_product_month,2019-10,Club String Cheese,6554.64,pytorch_mlp,11033.005859375
+panel_product_month,2019-11,Club String Cheese,536.46,pytorch_mlp,12708.734375
+panel_product_month,2019-12,Club String Cheese,6554.64,pytorch_mlp,12907.8330078125
+panel_product_month,2019-08,Colony Bagels,357.15,pytorch_mlp,9081.58203125
+panel_product_month,2019-09,Colony Bagels,3458.76,pytorch_mlp,9282.181640625
+panel_product_month,2019-10,Colony Bagels,3421.49,pytorch_mlp,10186.6708984375
+panel_product_month,2019-11,Colony Bagels,3177.03,pytorch_mlp,10756.1611328125
+panel_product_month,2019-12,Colony Bagels,3421.49,pytorch_mlp,11945.830078125
+panel_product_month,2019-08,Colony Blueberry Muffins,10475.66,pytorch_mlp,15829.3203125
+panel_product_month,2019-09,Colony Blueberry Muffins,8444.2,pytorch_mlp,17419.8125
+panel_product_month,2019-10,Colony Blueberry Muffins,27766.71,pytorch_mlp,16991.177734375
+panel_product_month,2019-11,Colony Blueberry Muffins,12361.62,pytorch_mlp,24766.23828125
+panel_product_month,2019-12,Colony Blueberry Muffins,27766.71,pytorch_mlp,23927.5234375
+panel_product_month,2019-08,Colony Cranberry Muffins,448.81,pytorch_mlp,8397.046875
+panel_product_month,2019-09,Colony Cranberry Muffins,688.3,pytorch_mlp,8638.68359375
+panel_product_month,2019-10,Colony Cranberry Muffins,242.76,pytorch_mlp,9382.669921875
+panel_product_month,2019-12,Colony Cranberry Muffins,242.76,pytorch_mlp,9652.6396484375
+panel_product_month,2019-08,Colony English Muffins,217.96,pytorch_mlp,10020.3671875
+panel_product_month,2019-09,Colony English Muffins,4674.360000000001,pytorch_mlp,10135.861328125
+panel_product_month,2019-10,Colony English Muffins,435.92,pytorch_mlp,11173.7265625
+panel_product_month,2019-11,Colony English Muffins,4015.7000000000003,pytorch_mlp,10237.94140625
+panel_product_month,2019-12,Colony English Muffins,653.88,pytorch_mlp,12494.3828125
+panel_product_month,2019-08,Colony Wheat Bread,12980.04,pytorch_mlp,15577.2568359375
+panel_product_month,2019-09,Colony Wheat Bread,4890.62,pytorch_mlp,18656.654296875
+panel_product_month,2019-10,Colony Wheat Bread,10487.41,pytorch_mlp,16224.5546875
+panel_product_month,2019-11,Colony Wheat Bread,9168.609999999999,pytorch_mlp,19590.876953125
+panel_product_month,2019-12,Colony Wheat Bread,10487.41,pytorch_mlp,18186.98828125
+panel_product_month,2019-08,Colony White Bread,410.94,pytorch_mlp,7642.71142578125
+panel_product_month,2019-08,Cutting Edge Chicken Hot Dogs,363.33,pytorch_mlp,7408.50390625
+panel_product_month,2019-10,Cutting Edge Chicken Hot Dogs,670.78,pytorch_mlp,8628.416015625
+panel_product_month,2019-12,Cutting Edge Chicken Hot Dogs,670.78,pytorch_mlp,8648.111328125
+panel_product_month,2019-08,Cutting Edge Cole Slaw,2216.89,pytorch_mlp,8254.6962890625
+panel_product_month,2019-09,Cutting Edge Cole Slaw,2503.9,pytorch_mlp,8615.87890625
+panel_product_month,2019-10,Cutting Edge Cole Slaw,1771.0,pytorch_mlp,9862.1787109375
+panel_product_month,2019-11,Cutting Edge Cole Slaw,1664.0,pytorch_mlp,10302.52734375
+panel_product_month,2019-12,Cutting Edge Cole Slaw,2933.68,pytorch_mlp,10047.689453125
+panel_product_month,2019-09,Cutting Edge Corned Beef,215.65,pytorch_mlp,7967.1455078125
+panel_product_month,2019-08,Cutting Edge Foot-Long Hot Dogs,94838.44,pytorch_mlp,103465.765625
+panel_product_month,2019-09,Cutting Edge Foot-Long Hot Dogs,222657.17,pytorch_mlp,133386.765625
+panel_product_month,2019-10,Cutting Edge Foot-Long Hot Dogs,53156.14,pytorch_mlp,137930.65625
+panel_product_month,2019-11,Cutting Edge Foot-Long Hot Dogs,46676.75,pytorch_mlp,102098.5703125
+panel_product_month,2019-12,Cutting Edge Foot-Long Hot Dogs,54510.77,pytorch_mlp,119354.0234375
+panel_product_month,2019-08,Cutting Edge Potato Salad,3343.35,pytorch_mlp,15439.96484375
+panel_product_month,2019-09,Cutting Edge Potato Salad,823.91,pytorch_mlp,13777.521484375
+panel_product_month,2019-10,Cutting Edge Potato Salad,934.98,pytorch_mlp,10596.6513671875
+panel_product_month,2019-11,Cutting Edge Potato Salad,953.72,pytorch_mlp,10575.3193359375
+panel_product_month,2019-12,Cutting Edge Potato Salad,934.98,pytorch_mlp,9520.701171875
+panel_product_month,2019-08,Cutting Edge Sliced Ham,2201.78,pytorch_mlp,9190.4609375
+panel_product_month,2019-09,Cutting Edge Sliced Ham,7591.78,pytorch_mlp,11064.189453125
+panel_product_month,2019-10,Cutting Edge Sliced Ham,1662.93,pytorch_mlp,11733.5009765625
+panel_product_month,2019-11,Cutting Edge Sliced Ham,1795.69,pytorch_mlp,11228.771484375
+panel_product_month,2019-12,Cutting Edge Sliced Ham,1662.93,pytorch_mlp,12956.8857421875
+panel_product_month,2019-08,Cutting Edge Turkey Hot Dogs,764.28,pytorch_mlp,8580.6875
+panel_product_month,2019-09,Cutting Edge Turkey Hot Dogs,1528.42,pytorch_mlp,8673.103515625
+panel_product_month,2019-10,Cutting Edge Turkey Hot Dogs,852.03,pytorch_mlp,9693.91796875
+panel_product_month,2019-12,Cutting Edge Turkey Hot Dogs,852.03,pytorch_mlp,9239.8125
+panel_product_month,2019-08,Discover Manicotti,157807.37,pytorch_mlp,182849.21875
+panel_product_month,2019-09,Discover Manicotti,335912.45999999996,pytorch_mlp,229228.4375
+panel_product_month,2019-10,Discover Manicotti,366290.44,pytorch_mlp,203280.78125
+panel_product_month,2019-11,Discover Manicotti,140161.0,pytorch_mlp,233025.296875
+panel_product_month,2019-12,Discover Manicotti,368902.66,pytorch_mlp,255167.25
+panel_product_month,2019-08,Discover Spaghetti,13195.05,pytorch_mlp,15894.671875
+panel_product_month,2019-09,Discover Spaghetti,9273.84,pytorch_mlp,18442.11328125
+panel_product_month,2019-10,Discover Spaghetti,18084.71,pytorch_mlp,18747.79296875
+panel_product_month,2019-11,Discover Spaghetti,14865.490000000002,pytorch_mlp,22811.32421875
+panel_product_month,2019-12,Discover Spaghetti,18658.420000000002,pytorch_mlp,21770.224609375
+panel_product_month,2019-08,Ebony Canned Peanuts,597.56,pytorch_mlp,8069.05224609375
+panel_product_month,2019-09,Ebony Canned Peanuts,2713.5299999999997,pytorch_mlp,8495.4775390625
+panel_product_month,2019-10,Ebony Canned Peanuts,2906.88,pytorch_mlp,9712.4990234375
+panel_product_month,2019-11,Ebony Canned Peanuts,1560.19,pytorch_mlp,10150.48828125
+panel_product_month,2019-12,Ebony Canned Peanuts,2906.88,pytorch_mlp,10445.373046875
+panel_product_month,2019-08,Ebony Cantelope,6462.95,pytorch_mlp,10445.873046875
+panel_product_month,2019-09,Ebony Cantelope,6354.32,pytorch_mlp,11237.8251953125
+panel_product_month,2019-10,Ebony Cantelope,7283.74,pytorch_mlp,13351.2880859375
+panel_product_month,2019-11,Ebony Cantelope,4445.49,pytorch_mlp,13999.234375
+panel_product_month,2019-12,Ebony Cantelope,7619.889999999999,pytorch_mlp,13158.5927734375
+panel_product_month,2019-10,Ebony Cauliflower,817.22,pytorch_mlp,9185.4931640625
+panel_product_month,2019-12,Ebony Cauliflower,817.22,pytorch_mlp,8972.7197265625
+panel_product_month,2019-08,Ebony Elephant Garlic,246.6,pytorch_mlp,8102.15673828125
+panel_product_month,2019-11,Ebony Elephant Garlic,251.79,pytorch_mlp,9184.7275390625
+panel_product_month,2019-08,Ebony Fancy Plums,280.97,pytorch_mlp,7652.2216796875
+panel_product_month,2019-11,Ebony Fancy Plums,374.63,pytorch_mlp,8834.189453125
+panel_product_month,2019-08,Ebony Firm Tofu,1012.8599999999999,pytorch_mlp,8195.365234375
+panel_product_month,2019-09,Ebony Firm Tofu,1550.41,pytorch_mlp,8608.7587890625
+panel_product_month,2019-10,Ebony Firm Tofu,1568.33,pytorch_mlp,10093.041015625
+panel_product_month,2019-11,Ebony Firm Tofu,202.57,pytorch_mlp,9828.44140625
+panel_product_month,2019-12,Ebony Firm Tofu,1568.33,pytorch_mlp,9521.4921875
+panel_product_month,2019-08,Ebony Fresh Lima Beans,1294.7,pytorch_mlp,10103.26953125
+panel_product_month,2019-09,Ebony Fresh Lima Beans,3685.11,pytorch_mlp,9640.642578125
+panel_product_month,2019-10,Ebony Fresh Lima Beans,5270.22,pytorch_mlp,11570.306640625
+panel_product_month,2019-11,Ebony Fresh Lima Beans,1322.25,pytorch_mlp,11262.609375
+panel_product_month,2019-12,Ebony Fresh Lima Beans,5270.22,pytorch_mlp,11170.94921875
+panel_product_month,2019-08,Ebony Fuji Apples,21082.28,pytorch_mlp,18029.38671875
+panel_product_month,2019-09,Ebony Fuji Apples,16612.01,pytorch_mlp,18115.380859375
+panel_product_month,2019-10,Ebony Fuji Apples,10964.54,pytorch_mlp,21566.56640625
+panel_product_month,2019-11,Ebony Fuji Apples,13316.53,pytorch_mlp,22888.67578125
+panel_product_month,2019-12,Ebony Fuji Apples,11276.15,pytorch_mlp,20689.21875
+panel_product_month,2019-08,Ebony Green Pepper,493.51,pytorch_mlp,8165.5654296875
+panel_product_month,2019-11,Ebony Green Pepper,251.79,pytorch_mlp,9231.134765625
+panel_product_month,2019-08,Ebony Honey Dew,3452.39,pytorch_mlp,8466.2998046875
+panel_product_month,2019-09,Ebony Honey Dew,2466.18,pytorch_mlp,9676.5693359375
+panel_product_month,2019-10,Ebony Honey Dew,1901.42,pytorch_mlp,10753.2529296875
+panel_product_month,2019-11,Ebony Honey Dew,959.24,pytorch_mlp,11194.4912109375
+panel_product_month,2019-12,Ebony Honey Dew,2148.02,pytorch_mlp,10219.76171875
+panel_product_month,2019-08,Ebony Lemons,1003.24,pytorch_mlp,8390.00390625
+panel_product_month,2019-09,Ebony Lemons,2072.92,pytorch_mlp,8491.642578125
+panel_product_month,2019-10,Ebony Lemons,2089.24,pytorch_mlp,9753.49609375
+panel_product_month,2019-11,Ebony Lemons,2223.96,pytorch_mlp,10037.130859375
+panel_product_month,2019-12,Ebony Lemons,2089.24,pytorch_mlp,10345.1494140625
+panel_product_month,2019-09,Ebony Lettuce,711.53,pytorch_mlp,8059.14111328125
+panel_product_month,2019-10,Ebony Lettuce,779.16,pytorch_mlp,8950.6201171875
+panel_product_month,2019-11,Ebony Lettuce,206.84,pytorch_mlp,9193.4140625
+panel_product_month,2019-12,Ebony Lettuce,779.16,pytorch_mlp,9037.611328125
+panel_product_month,2019-08,Ebony Macintosh Apples,16490.95,pytorch_mlp,28124.0703125
+panel_product_month,2019-09,Ebony Macintosh Apples,41028.04,pytorch_mlp,24313.927734375
+panel_product_month,2019-10,Ebony Macintosh Apples,22894.21,pytorch_mlp,37928.9921875
+panel_product_month,2019-11,Ebony Macintosh Apples,33337.81,pytorch_mlp,31657.62890625
+panel_product_month,2019-12,Ebony Macintosh Apples,26676.66,pytorch_mlp,39877.83203125
+panel_product_month,2019-08,Ebony Mushrooms,1726.2,pytorch_mlp,8638.083984375
+panel_product_month,2019-09,Ebony Mushrooms,284.62,pytorch_mlp,9478.275390625
+panel_product_month,2019-10,Ebony Mushrooms,244.23,pytorch_mlp,9877.7724609375
+panel_product_month,2019-12,Ebony Mushrooms,244.23,pytorch_mlp,9356.9892578125
+panel_product_month,2019-08,Ebony New Potatos,4100.73,pytorch_mlp,8846.2939453125
+panel_product_month,2019-09,Ebony New Potatos,3150.38,pytorch_mlp,8479.01171875
+panel_product_month,2019-10,Ebony New Potatos,4456.02,pytorch_mlp,9944.4404296875
+panel_product_month,2019-11,Ebony New Potatos,3381.29,pytorch_mlp,11260.0419921875
+panel_product_month,2019-12,Ebony New Potatos,4456.02,pytorch_mlp,10792.560546875
+panel_product_month,2019-09,Ebony Onions,268.92,pytorch_mlp,7407.22412109375
+panel_product_month,2019-08,Ebony Oranges,4412.38,pytorch_mlp,9521.3984375
+panel_product_month,2019-09,Ebony Oranges,3148.88,pytorch_mlp,11239.2841796875
+panel_product_month,2019-10,Ebony Oranges,4358.17,pytorch_mlp,10882.5869140625
+panel_product_month,2019-11,Ebony Oranges,1741.16,pytorch_mlp,12035.9638671875
+panel_product_month,2019-12,Ebony Oranges,4358.17,pytorch_mlp,10967.2529296875
+panel_product_month,2019-12,Ebony Party Nuts,258.82,pytorch_mlp,8164.95166015625
+panel_product_month,2019-08,Ebony Peaches,615.74,pytorch_mlp,7629.32421875
+panel_product_month,2019-09,Ebony Peaches,207.36,pytorch_mlp,8131.44384765625
+panel_product_month,2019-10,Ebony Peaches,301.53,pytorch_mlp,8753.162109375
+panel_product_month,2019-11,Ebony Peaches,465.46,pytorch_mlp,8957.251953125
+panel_product_month,2019-12,Ebony Peaches,301.53,pytorch_mlp,8723.251953125
+panel_product_month,2019-08,Ebony Plums,4541.62,pytorch_mlp,9506.8056640625
+panel_product_month,2019-09,Ebony Plums,1962.35,pytorch_mlp,10066.546875
+panel_product_month,2019-10,Ebony Plums,3607.83,pytorch_mlp,11081.962890625
+panel_product_month,2019-11,Ebony Plums,2735.69,pytorch_mlp,11707.974609375
+panel_product_month,2019-12,Ebony Plums,3607.83,pytorch_mlp,10758.595703125
+panel_product_month,2019-12,Ebony Potatos,284.62,pytorch_mlp,8659.6015625
+panel_product_month,2019-08,Ebony Prepared Salad,73949.37,pytorch_mlp,110566.546875
+panel_product_month,2019-09,Ebony Prepared Salad,103102.97,pytorch_mlp,109565.0390625
+panel_product_month,2019-10,Ebony Prepared Salad,147406.98,pytorch_mlp,95161.65625
+panel_product_month,2019-11,Ebony Prepared Salad,80373.53,pytorch_mlp,98846.953125
+panel_product_month,2019-12,Ebony Prepared Salad,150412.47,pytorch_mlp,101559.9609375
+panel_product_month,2019-08,Ebony Red Pepper,717.52,pytorch_mlp,8047.23876953125
+panel_product_month,2019-10,Ebony Red Pepper,1361.5,pytorch_mlp,9434.5771484375
+panel_product_month,2019-12,Ebony Red Pepper,1361.5,pytorch_mlp,9418.1513671875
+panel_product_month,2019-09,Ebony Shitake Mushrooms,125544.0,pytorch_mlp,9651.5517578125
+panel_product_month,2019-10,Ebony Shitake Mushrooms,959.4,pytorch_mlp,45299.625
+panel_product_month,2019-12,Ebony Shitake Mushrooms,959.4,pytorch_mlp,38434.62890625
+panel_product_month,2019-08,Ebony Squash,333303.19,pytorch_mlp,144180.375
+panel_product_month,2019-09,Ebony Squash,235224.01,pytorch_mlp,244532.875
+panel_product_month,2019-10,Ebony Squash,196325.17,pytorch_mlp,182771.484375
+panel_product_month,2019-11,Ebony Squash,146486.73,pytorch_mlp,241063.203125
+panel_product_month,2019-12,Ebony Squash,199039.12000000002,pytorch_mlp,180832.796875
+panel_product_month,2019-09,Ebony Tangerines,404.0,pytorch_mlp,7848.89892578125
+panel_product_month,2019-08,Ebony Tomatos,4254.03,pytorch_mlp,9282.9609375
+panel_product_month,2019-09,Ebony Tomatos,467.62,pytorch_mlp,10896.87109375
+panel_product_month,2019-10,Ebony Tomatos,2297.18,pytorch_mlp,10305.240234375
+panel_product_month,2019-12,Ebony Tomatos,2297.18,pytorch_mlp,10794.7890625
+panel_product_month,2019-08,Even Better 1% Milk,1408.91,pytorch_mlp,4913.62060546875
+panel_product_month,2019-09,Even Better 1% Milk,3432.28,pytorch_mlp,10181.927734375
+panel_product_month,2019-10,Even Better 1% Milk,697.11,pytorch_mlp,7281.73095703125
+panel_product_month,2019-12,Even Better 1% Milk,697.11,pytorch_mlp,9578.171875
+panel_product_month,2019-08,Even Better 2% Milk,13372.76,pytorch_mlp,10835.505859375
+panel_product_month,2019-09,Even Better 2% Milk,5254.3,pytorch_mlp,14968.1923828125
+panel_product_month,2019-10,Even Better 2% Milk,4282.43,pytorch_mlp,12566.720703125
+panel_product_month,2019-11,Even Better 2% Milk,4278.97,pytorch_mlp,14806.4853515625
+panel_product_month,2019-12,Even Better 2% Milk,4282.43,pytorch_mlp,12272.96484375
+panel_product_month,2019-08,Even Better Blueberry Yogurt,50539.44,pytorch_mlp,29211.03515625
+panel_product_month,2019-09,Even Better Blueberry Yogurt,4763.3,pytorch_mlp,39562.00390625
+panel_product_month,2019-10,Even Better Blueberry Yogurt,22015.63,pytorch_mlp,33782.22265625
+panel_product_month,2019-11,Even Better Blueberry Yogurt,10779.28,pytorch_mlp,35141.55078125
+panel_product_month,2019-12,Even Better Blueberry Yogurt,22015.63,pytorch_mlp,17560.05859375
+panel_product_month,2019-09,Even Better Buttermilk,3498.2299999999996,pytorch_mlp,11556.91015625
+panel_product_month,2019-10,Even Better Buttermilk,4358.8,pytorch_mlp,12566.9560546875
+panel_product_month,2019-11,Even Better Buttermilk,4260.15,pytorch_mlp,14323.69921875
+panel_product_month,2019-12,Even Better Buttermilk,4358.8,pytorch_mlp,11419.4482421875
+panel_product_month,2019-08,Even Better Chocolate Milk,48318.69,pytorch_mlp,12278.392578125
+panel_product_month,2019-09,Even Better Chocolate Milk,16895.93,pytorch_mlp,23634.462890625
+panel_product_month,2019-10,Even Better Chocolate Milk,10303.189999999999,pytorch_mlp,24758.255859375
+panel_product_month,2019-11,Even Better Chocolate Milk,54122.54,pytorch_mlp,34137.03125
+panel_product_month,2019-12,Even Better Chocolate Milk,10303.189999999999,pytorch_mlp,34483.296875
+panel_product_month,2019-12,Even Better Head Cheese,404.6,pytorch_mlp,8005.80615234375
+panel_product_month,2019-08,Even Better Large Curd Cottage Cheese,234.7,pytorch_mlp,6855.92529296875
+panel_product_month,2019-10,Even Better Large Curd Cottage Cheese,469.4,pytorch_mlp,7865.3349609375
+panel_product_month,2019-11,Even Better Large Curd Cottage Cheese,704.1,pytorch_mlp,8151.13818359375
+panel_product_month,2019-12,Even Better Large Curd Cottage Cheese,469.4,pytorch_mlp,8293.740234375
+panel_product_month,2019-08,Even Better Low Fat Cottage Cheese,731.22,pytorch_mlp,8165.05224609375
+panel_product_month,2019-09,Even Better Low Fat Cottage Cheese,656.7,pytorch_mlp,8283.7666015625
+panel_product_month,2019-10,Even Better Low Fat Cottage Cheese,1192.8600000000001,pytorch_mlp,9193.572265625
+panel_product_month,2019-11,Even Better Low Fat Cottage Cheese,228.78,pytorch_mlp,9516.876953125
+panel_product_month,2019-12,Even Better Low Fat Cottage Cheese,1192.8600000000001,pytorch_mlp,9143.005859375
+panel_product_month,2019-08,Even Better Low Fat Sour Cream,284.28,pytorch_mlp,7843.466796875
+panel_product_month,2019-09,Even Better Low Fat Sour Cream,534.46,pytorch_mlp,8205.64453125
+panel_product_month,2019-10,Even Better Low Fat Sour Cream,267.23,pytorch_mlp,8919.5859375
+panel_product_month,2019-12,Even Better Low Fat Sour Cream,267.23,pytorch_mlp,8874.275390625
+panel_product_month,2019-08,Even Better Low Fat String Cheese,3545.07,pytorch_mlp,10315.4052734375
+panel_product_month,2019-09,Even Better Low Fat String Cheese,2644.53,pytorch_mlp,11730.71484375
+panel_product_month,2019-10,Even Better Low Fat String Cheese,4482.85,pytorch_mlp,11960.033203125
+panel_product_month,2019-11,Even Better Low Fat String Cheese,1461.19,pytorch_mlp,13667.0693359375
+panel_product_month,2019-12,Even Better Low Fat String Cheese,4482.85,pytorch_mlp,13285.1806640625
+panel_product_month,2019-08,Even Better Mild Cheddar Cheese,3373.23,pytorch_mlp,9759.0234375
+panel_product_month,2019-09,Even Better Mild Cheddar Cheese,5050.88,pytorch_mlp,10314.505859375
+panel_product_month,2019-10,Even Better Mild Cheddar Cheese,5179.13,pytorch_mlp,11304.3203125
+panel_product_month,2019-11,Even Better Mild Cheddar Cheese,5967.030000000001,pytorch_mlp,12431.9267578125
+panel_product_month,2019-12,Even Better Mild Cheddar Cheese,5179.13,pytorch_mlp,14380.005859375
+panel_product_month,2019-08,Even Better Sharp Cheddar Cheese,13361.49,pytorch_mlp,14074.505859375
+panel_product_month,2019-09,Even Better Sharp Cheddar Cheese,12845.3,pytorch_mlp,14902.90234375
+panel_product_month,2019-10,Even Better Sharp Cheddar Cheese,19944.62,pytorch_mlp,18093.90625
+panel_product_month,2019-11,Even Better Sharp Cheddar Cheese,15865.75,pytorch_mlp,23743.6328125
+panel_product_month,2019-12,Even Better Sharp Cheddar Cheese,30442.17,pytorch_mlp,24957.056640625
+panel_product_month,2019-08,Even Better Strawberry Yogurt,24624.12,pytorch_mlp,34769.30078125
+panel_product_month,2019-09,Even Better Strawberry Yogurt,37171.58,pytorch_mlp,39036.47265625
+panel_product_month,2019-10,Even Better Strawberry Yogurt,32935.96,pytorch_mlp,34274.5
+panel_product_month,2019-11,Even Better Strawberry Yogurt,21633.4,pytorch_mlp,35230.62890625
+panel_product_month,2019-12,Even Better Strawberry Yogurt,32935.96,pytorch_mlp,36915.39453125
+panel_product_month,2019-08,Even Better String Cheese,11078.07,pytorch_mlp,14087.28125
+panel_product_month,2019-09,Even Better String Cheese,5413.32,pytorch_mlp,14792.9453125
+panel_product_month,2019-10,Even Better String Cheese,1864.0,pytorch_mlp,16356.9267578125
+panel_product_month,2019-11,Even Better String Cheese,20527.91,pytorch_mlp,14263.396484375
+panel_product_month,2019-12,Even Better String Cheese,3033.47,pytorch_mlp,17772.2265625
+panel_product_month,2019-10,Even Better Whole Milk,893.88,pytorch_mlp,8491.3720703125
+panel_product_month,2019-12,Even Better Whole Milk,893.88,pytorch_mlp,8610.685546875
+panel_product_month,2019-08,Excellent Apple Drink,668.0,pytorch_mlp,7781.5947265625
+panel_product_month,2019-09,Excellent Apple Drink,334.0,pytorch_mlp,8264.8125
+panel_product_month,2019-10,Excellent Apple Drink,2334.39,pytorch_mlp,8453.46875
+panel_product_month,2019-12,Excellent Apple Drink,2334.39,pytorch_mlp,9099.013671875
+panel_product_month,2019-11,Excellent Apple Juice,490.15,pytorch_mlp,9103.931640625
+panel_product_month,2019-08,Excellent Berry Juice,1935.8400000000001,pytorch_mlp,11045.17578125
+panel_product_month,2019-09,Excellent Berry Juice,733.31,pytorch_mlp,12609.833984375
+panel_product_month,2019-10,Excellent Berry Juice,376.23,pytorch_mlp,11527.5830078125
+panel_product_month,2019-11,Excellent Berry Juice,383.88,pytorch_mlp,10902.7578125
+panel_product_month,2019-12,Excellent Berry Juice,376.23,pytorch_mlp,10684.93359375
+panel_product_month,2019-12,Excellent Cranberry Juice,239.17,pytorch_mlp,7822.583984375
+panel_product_month,2019-08,Excellent Mango Drink,902.0699999999999,pytorch_mlp,9161.4453125
+panel_product_month,2019-09,Excellent Mango Drink,748.6800000000001,pytorch_mlp,9951.1376953125
+panel_product_month,2019-11,Excellent Mango Drink,620.4100000000001,pytorch_mlp,9441.4365234375
+panel_product_month,2019-11,Excellent Strawberry Drink,422.98,pytorch_mlp,8998.9013671875
+panel_product_month,2019-08,Fabulous Apple Juice,5531.82,pytorch_mlp,19438.947265625
+panel_product_month,2019-09,Fabulous Apple Juice,2370.7799999999997,pytorch_mlp,19179.5
+panel_product_month,2019-10,Fabulous Apple Juice,23707.88,pytorch_mlp,23026.29296875
+panel_product_month,2019-11,Fabulous Apple Juice,1501.5,pytorch_mlp,16245.935546875
+panel_product_month,2019-12,Fabulous Apple Juice,23707.88,pytorch_mlp,14365.5625
+panel_product_month,2019-10,Fabulous Berry Juice,136237.5,pytorch_mlp,6258.080078125
+panel_product_month,2019-11,Fabulous Berry Juice,748.56,pytorch_mlp,52493.69921875
+panel_product_month,2019-12,Fabulous Berry Juice,136237.5,pytorch_mlp,43669.93359375
+panel_product_month,2019-08,Fabulous Cola,26254.079999999998,pytorch_mlp,28286.630859375
+panel_product_month,2019-09,Fabulous Cola,51435.479999999996,pytorch_mlp,35209.32421875
+panel_product_month,2019-10,Fabulous Cola,53249.369999999995,pytorch_mlp,42324.171875
+panel_product_month,2019-11,Fabulous Cola,43506.869999999995,pytorch_mlp,46119.4921875
+panel_product_month,2019-12,Fabulous Cola,77269.06999999999,pytorch_mlp,54414.3359375
+panel_product_month,2019-08,Fabulous Cranberry Juice,2062.46,pytorch_mlp,48194.18359375
+panel_product_month,2019-09,Fabulous Cranberry Juice,16241.92,pytorch_mlp,40308.37890625
+panel_product_month,2019-10,Fabulous Cranberry Juice,9925.619999999999,pytorch_mlp,59444.94921875
+panel_product_month,2019-11,Fabulous Cranberry Juice,612.56,pytorch_mlp,19146.732421875
+panel_product_month,2019-12,Fabulous Cranberry Juice,15558.739999999998,pytorch_mlp,19955.24609375
+panel_product_month,2019-08,Fabulous Cream Soda,15434.74,pytorch_mlp,15730.923828125
+panel_product_month,2019-09,Fabulous Cream Soda,21747.120000000003,pytorch_mlp,19196.587890625
+panel_product_month,2019-10,Fabulous Cream Soda,18973.33,pytorch_mlp,28337.716796875
+panel_product_month,2019-11,Fabulous Cream Soda,29624.79,pytorch_mlp,26987.5390625
+panel_product_month,2019-12,Fabulous Cream Soda,24696.260000000002,pytorch_mlp,33139.62109375
+panel_product_month,2019-08,Fabulous Diet Cola,6845.39,pytorch_mlp,33153.62890625
+panel_product_month,2019-09,Fabulous Diet Cola,5417.05,pytorch_mlp,37555.73046875
+panel_product_month,2019-10,Fabulous Diet Cola,7365.66,pytorch_mlp,32740.515625
+panel_product_month,2019-11,Fabulous Diet Cola,233.83,pytorch_mlp,16147.3173828125
+panel_product_month,2019-12,Fabulous Diet Cola,11808.42,pytorch_mlp,13129.55078125
+panel_product_month,2019-08,Fabulous Diet Soda,3093.4300000000003,pytorch_mlp,26057.921875
+panel_product_month,2019-10,Fabulous Diet Soda,5605.5,pytorch_mlp,27013.224609375
+panel_product_month,2019-11,Fabulous Diet Soda,15302.35,pytorch_mlp,36353.484375
+panel_product_month,2019-12,Fabulous Diet Soda,5605.5,pytorch_mlp,18136.564453125
+panel_product_month,2019-08,Fabulous Mango Drink,63702.6,pytorch_mlp,45475.03515625
+panel_product_month,2019-09,Fabulous Mango Drink,10532.330000000002,pytorch_mlp,46337.09765625
+panel_product_month,2019-10,Fabulous Mango Drink,122596.13,pytorch_mlp,53761.3828125
+panel_product_month,2019-11,Fabulous Mango Drink,19741.52,pytorch_mlp,76244.40625
+panel_product_month,2019-12,Fabulous Mango Drink,122596.13,pytorch_mlp,46436.25390625
+panel_product_month,2019-08,Fabulous Orange Juice,2660.25,pytorch_mlp,7259.25634765625
+panel_product_month,2019-09,Fabulous Orange Juice,886.75,pytorch_mlp,9205.494140625
+panel_product_month,2019-10,Fabulous Orange Juice,22522.949999999997,pytorch_mlp,8699.3349609375
+panel_product_month,2019-11,Fabulous Orange Juice,1711.46,pytorch_mlp,12674.962890625
+panel_product_month,2019-12,Fabulous Orange Juice,22522.949999999997,pytorch_mlp,12387.0771484375
+panel_product_month,2019-08,Fabulous Strawberry Drink,2807.38,pytorch_mlp,6823.52880859375
+panel_product_month,2019-09,Fabulous Strawberry Drink,1277.01,pytorch_mlp,9044.8203125
+panel_product_month,2019-10,Fabulous Strawberry Drink,10008.26,pytorch_mlp,8770.2265625
+panel_product_month,2019-11,Fabulous Strawberry Drink,3113.2200000000003,pytorch_mlp,12161.56640625
+panel_product_month,2019-12,Fabulous Strawberry Drink,10008.26,pytorch_mlp,12579.3046875
+panel_product_month,2019-09,Fantastic Pumpernickel Bread,1023.64,pytorch_mlp,8272.5302734375
+panel_product_month,2019-10,Fantastic Pumpernickel Bread,328.62,pytorch_mlp,9352.638671875
+panel_product_month,2019-11,Fantastic Pumpernickel Bread,888.9100000000001,pytorch_mlp,9074.728515625
+panel_product_month,2019-12,Fantastic Pumpernickel Bread,791.96,pytorch_mlp,9034.2548828125
+panel_product_month,2019-08,Fantastic Rye Bread,2873.61,pytorch_mlp,8264.259765625
+panel_product_month,2019-10,Fantastic Rye Bread,595.49,pytorch_mlp,10669.623046875
+panel_product_month,2019-12,Fantastic Rye Bread,595.49,pytorch_mlp,9553.119140625
+panel_product_month,2019-10,Fantastic Wheat Bread,2687.29,pytorch_mlp,10256.6689453125
+panel_product_month,2019-11,Fantastic Wheat Bread,1164.04,pytorch_mlp,10278.1982421875
+panel_product_month,2019-12,Fantastic Wheat Bread,2687.29,pytorch_mlp,10282.1669921875
+panel_product_month,2019-09,Fantastic White Bread,707.0500000000001,pytorch_mlp,8671.46484375
+panel_product_month,2019-10,Fantastic White Bread,220.77,pytorch_mlp,9441.66015625
+panel_product_month,2019-12,Fantastic White Bread,220.77,pytorch_mlp,9289.744140625
+panel_product_month,2019-09,Fast Avocado Dip,555.84,pytorch_mlp,7756.5732421875
+panel_product_month,2019-11,Fast Avocado Dip,308.8,pytorch_mlp,8875.326171875
+panel_product_month,2019-08,Fast BBQ Potato Chips,6417.66,pytorch_mlp,14250.4970703125
+panel_product_month,2019-09,Fast BBQ Potato Chips,8878.82,pytorch_mlp,13829.921875
+panel_product_month,2019-10,Fast BBQ Potato Chips,11767.02,pytorch_mlp,15808.134765625
+panel_product_month,2019-11,Fast BBQ Potato Chips,9089.6,pytorch_mlp,16319.6904296875
+panel_product_month,2019-12,Fast BBQ Potato Chips,14297.47,pytorch_mlp,17012.97265625
+panel_product_month,2019-08,Fast Buttered Popcorn,8342.93,pytorch_mlp,17380.078125
+panel_product_month,2019-09,Fast Buttered Popcorn,35852.06,pytorch_mlp,17100.373046875
+panel_product_month,2019-10,Fast Buttered Popcorn,12401.66,pytorch_mlp,27242.58203125
+panel_product_month,2019-11,Fast Buttered Popcorn,35401.07,pytorch_mlp,24106.05859375
+panel_product_month,2019-12,Fast Buttered Popcorn,12401.66,pytorch_mlp,36346.91015625
+panel_product_month,2019-08,Fast Cheese Crackers,230.76,pytorch_mlp,7666.1181640625
+panel_product_month,2019-08,Fast Cheese Dip,203.33,pytorch_mlp,7346.25390625
+panel_product_month,2019-09,Fast Cheese Dip,512.13,pytorch_mlp,7563.04052734375
+panel_product_month,2019-11,Fast Cheese Dip,510.05,pytorch_mlp,8697.4033203125
+panel_product_month,2019-08,Fast Corn Chips,432.87,pytorch_mlp,8181.328125
+panel_product_month,2019-09,Fast Corn Chips,333.88,pytorch_mlp,8751.4033203125
+panel_product_month,2019-10,Fast Corn Chips,715.19,pytorch_mlp,8605.6474609375
+panel_product_month,2019-11,Fast Corn Chips,595.38,pytorch_mlp,8943.3828125
+panel_product_month,2019-12,Fast Corn Chips,1049.07,pytorch_mlp,8748.953125
+panel_product_month,2019-08,Fast Dried Apples,15876.689999999999,pytorch_mlp,20490.486328125
+panel_product_month,2019-09,Fast Dried Apples,22707.05,pytorch_mlp,20337.095703125
+panel_product_month,2019-10,Fast Dried Apples,13828.61,pytorch_mlp,22798.79296875
+panel_product_month,2019-11,Fast Dried Apples,18525.07,pytorch_mlp,23738.25
+panel_product_month,2019-12,Fast Dried Apples,15328.289999999999,pytorch_mlp,25513.66796875
+panel_product_month,2019-11,Fast Frosted Donuts,208.25,pytorch_mlp,8951.9814453125
+panel_product_month,2019-11,Fast Fudge Brownies,249.52,pytorch_mlp,9382.150390625
+panel_product_month,2019-08,Fast Fudge Cookies,270.63,pytorch_mlp,9133.138671875
+panel_product_month,2019-09,Fast Fudge Cookies,249.15,pytorch_mlp,9320.30859375
+panel_product_month,2019-11,Fast Fudge Cookies,249.15,pytorch_mlp,10606.7236328125
+panel_product_month,2019-09,Fast Low Fat BBQ Chips,555.2,pytorch_mlp,8135.48388671875
+panel_product_month,2019-10,Fast Low Fat BBQ Chips,216.55,pytorch_mlp,8917.125
+panel_product_month,2019-11,Fast Low Fat BBQ Chips,453.83000000000004,pytorch_mlp,8930.12890625
+panel_product_month,2019-12,Fast Low Fat BBQ Chips,541.38,pytorch_mlp,8939.5341796875
+panel_product_month,2019-08,Fast Low Fat Cookies,13456.87,pytorch_mlp,13581.302734375
+panel_product_month,2019-09,Fast Low Fat Cookies,9758.26,pytorch_mlp,17594.5234375
+panel_product_month,2019-10,Fast Low Fat Cookies,17236.75,pytorch_mlp,17872.3203125
+panel_product_month,2019-11,Fast Low Fat Cookies,7829.13,pytorch_mlp,21191.890625
+panel_product_month,2019-12,Fast Low Fat Cookies,17800.1,pytorch_mlp,18469.208984375
+panel_product_month,2019-08,Fast Potato Chips,2961.8799999999997,pytorch_mlp,9125.861328125
+panel_product_month,2019-09,Fast Potato Chips,3307.25,pytorch_mlp,9880.783203125
+panel_product_month,2019-10,Fast Potato Chips,1681.77,pytorch_mlp,10986.0068359375
+panel_product_month,2019-11,Fast Potato Chips,1258.02,pytorch_mlp,12124.2236328125
+panel_product_month,2019-12,Fast Potato Chips,1681.77,pytorch_mlp,11941.7490234375
+panel_product_month,2019-09,Fast Salsa Dip,3233.47,pytorch_mlp,10395.4326171875
+panel_product_month,2019-10,Fast Salsa Dip,276.17,pytorch_mlp,12633.185546875
+panel_product_month,2019-11,Fast Salsa Dip,2755.94,pytorch_mlp,11512.0185546875
+panel_product_month,2019-12,Fast Salsa Dip,478.98,pytorch_mlp,10396.7197265625
+panel_product_month,2019-08,Fast Sugar Cookies,810.62,pytorch_mlp,8797.7744140625
+panel_product_month,2019-09,Fast Sugar Cookies,796.47,pytorch_mlp,9574.150390625
+panel_product_month,2019-10,Fast Sugar Cookies,515.99,pytorch_mlp,9328.6923828125
+panel_product_month,2019-11,Fast Sugar Cookies,549.76,pytorch_mlp,9985.4189453125
+panel_product_month,2019-12,Fast Sugar Cookies,515.99,pytorch_mlp,10150.7197265625
+panel_product_month,2019-08,Footnote Extra Lean Hamburger,687.78,pytorch_mlp,21858.294921875
+panel_product_month,2019-11,Footnote Extra Lean Hamburger,33731.53,pytorch_mlp,10252.5341796875
+panel_product_month,2019-08,Golden Apple Cinnamon Waffles,1010.3100000000001,pytorch_mlp,8811.591796875
+panel_product_month,2019-09,Golden Apple Cinnamon Waffles,2426.18,pytorch_mlp,9031.73828125
+panel_product_month,2019-10,Golden Apple Cinnamon Waffles,1728.74,pytorch_mlp,10363.46484375
+panel_product_month,2019-11,Golden Apple Cinnamon Waffles,2230.45,pytorch_mlp,10093.162109375
+panel_product_month,2019-12,Golden Apple Cinnamon Waffles,2150.89,pytorch_mlp,10629.095703125
+panel_product_month,2019-08,Golden Beef TV Dinner,907.57,pytorch_mlp,11642.099609375
+panel_product_month,2019-09,Golden Beef TV Dinner,1811.25,pytorch_mlp,11395.7265625
+panel_product_month,2019-10,Golden Beef TV Dinner,1814.29,pytorch_mlp,12110.388671875
+panel_product_month,2019-11,Golden Beef TV Dinner,1948.42,pytorch_mlp,10031.3515625
+panel_product_month,2019-12,Golden Beef TV Dinner,2068.4,pytorch_mlp,10284.544921875
+panel_product_month,2019-08,Golden Chicken TV Dinner,1922.94,pytorch_mlp,10019.388671875
+panel_product_month,2019-09,Golden Chicken TV Dinner,2723.08,pytorch_mlp,10370.623046875
+panel_product_month,2019-10,Golden Chicken TV Dinner,2451.97,pytorch_mlp,10423.353515625
+panel_product_month,2019-11,Golden Chicken TV Dinner,670.71,pytorch_mlp,10810.83203125
+panel_product_month,2019-12,Golden Chicken TV Dinner,4805.35,pytorch_mlp,10239.416015625
+panel_product_month,2019-08,Golden Fajita French Fries,4972.23,pytorch_mlp,8638.7744140625
+panel_product_month,2019-09,Golden Fajita French Fries,282.07,pytorch_mlp,9733.8193359375
+panel_product_month,2019-10,Golden Fajita French Fries,916.51,pytorch_mlp,10111.30078125
+panel_product_month,2019-11,Golden Fajita French Fries,1434.31,pytorch_mlp,10921.1865234375
+panel_product_month,2019-12,Golden Fajita French Fries,916.51,pytorch_mlp,9283.046875
+panel_product_month,2019-10,Golden Frozen Broccoli,329.42,pytorch_mlp,7817.63232421875
+panel_product_month,2019-12,Golden Frozen Broccoli,329.42,pytorch_mlp,8093.29736328125
+panel_product_month,2019-08,Golden Frozen Cauliflower,463.81,pytorch_mlp,6941.0732421875
+panel_product_month,2019-08,Golden Frozen Cheese Pizza,716.66,pytorch_mlp,8718.150390625
+panel_product_month,2019-10,Golden Frozen Cheese Pizza,2351.92,pytorch_mlp,9546.80859375
+panel_product_month,2019-11,Golden Frozen Cheese Pizza,538.3299999999999,pytorch_mlp,10182.97265625
+panel_product_month,2019-12,Golden Frozen Cheese Pizza,2351.92,pytorch_mlp,9840.810546875
+panel_product_month,2019-08,Golden Frozen Chicken Thighs,7984.400000000001,pytorch_mlp,23251.583984375
+panel_product_month,2019-09,Golden Frozen Chicken Thighs,24322.19,pytorch_mlp,24325.67578125
+panel_product_month,2019-10,Golden Frozen Chicken Thighs,21502.28,pytorch_mlp,24960.890625
+panel_product_month,2019-11,Golden Frozen Chicken Thighs,37627.92,pytorch_mlp,24395.9765625
+panel_product_month,2019-12,Golden Frozen Chicken Thighs,23822.95,pytorch_mlp,35929.58984375
+panel_product_month,2019-08,Golden Frozen Chicken Wings,3803.5,pytorch_mlp,9277.7685546875
+panel_product_month,2019-08,Golden Frozen Corn,63654.86,pytorch_mlp,31007.109375
+panel_product_month,2019-09,Golden Frozen Corn,4786.08,pytorch_mlp,39514.8828125
+panel_product_month,2019-10,Golden Frozen Corn,152407.94,pytorch_mlp,31389.7109375
+panel_product_month,2019-11,Golden Frozen Corn,79295.79,pytorch_mlp,73811.6015625
+panel_product_month,2019-12,Golden Frozen Corn,152407.94,pytorch_mlp,67445.078125
+panel_product_month,2019-08,Golden Frozen Mushroom Pizza,263.57,pytorch_mlp,7272.49072265625
+panel_product_month,2019-08,Golden Frozen Pepperoni Pizza,447.25,pytorch_mlp,9176.0400390625
+panel_product_month,2019-09,Golden Frozen Pepperoni Pizza,1376.94,pytorch_mlp,9123.7158203125
+panel_product_month,2019-10,Golden Frozen Pepperoni Pizza,657.47,pytorch_mlp,10243.37890625
+panel_product_month,2019-11,Golden Frozen Pepperoni Pizza,918.9200000000001,pytorch_mlp,9370.904296875
+panel_product_month,2019-12,Golden Frozen Pepperoni Pizza,657.47,pytorch_mlp,9642.2626953125
+panel_product_month,2019-08,Golden Grape Popsicles,508.72,pytorch_mlp,8031.52880859375
+panel_product_month,2019-10,Golden Home Style French Fries,1201.22,pytorch_mlp,8651.3232421875
+panel_product_month,2019-11,Golden Home Style French Fries,280.68,pytorch_mlp,9173.7880859375
+panel_product_month,2019-12,Golden Home Style French Fries,1201.22,pytorch_mlp,8625.16796875
+panel_product_month,2019-08,Golden Lime Popsicles,2125.5499999999997,pytorch_mlp,9130.201171875
+panel_product_month,2019-09,Golden Lime Popsicles,612.66,pytorch_mlp,10029.6279296875
+panel_product_month,2019-10,Golden Lime Popsicles,891.23,pytorch_mlp,9832.8076171875
+panel_product_month,2019-11,Golden Lime Popsicles,909.41,pytorch_mlp,11117.5537109375
+panel_product_month,2019-12,Golden Lime Popsicles,891.23,pytorch_mlp,11199.0966796875
+panel_product_month,2019-09,Golden Orange Popsicles,303.1,pytorch_mlp,8724.671875
+panel_product_month,2019-10,Golden Orange Popsicles,7577.4,pytorch_mlp,9105.86328125
+panel_product_month,2019-12,Golden Orange Popsicles,7880.5,pytorch_mlp,11208.6337890625
+panel_product_month,2019-09,Golden Pancake Mix,201.13,pytorch_mlp,6786.36962890625
+panel_product_month,2019-08,Golden Popsicles,4371.84,pytorch_mlp,11037.2841796875
+panel_product_month,2019-08,Golden Waffles,18847.68,pytorch_mlp,19904.1796875
+panel_product_month,2019-09,Golden Waffles,8921.55,pytorch_mlp,25893.96484375
+panel_product_month,2019-10,Golden Waffles,34672.049999999996,pytorch_mlp,20840.767578125
+panel_product_month,2019-11,Golden Waffles,22178.370000000003,pytorch_mlp,30361.609375
+panel_product_month,2019-12,Golden Waffles,36546.43,pytorch_mlp,29646.6953125
+panel_product_month,2019-08,Good Chardonnay Wine,806.0799999999999,pytorch_mlp,8153.61376953125
+panel_product_month,2019-09,Good Chardonnay Wine,1203.25,pytorch_mlp,8439.6396484375
+panel_product_month,2019-10,Good Chardonnay Wine,2497.06,pytorch_mlp,9122.9716796875
+panel_product_month,2019-12,Good Chardonnay Wine,2497.06,pytorch_mlp,9467.6337890625
+panel_product_month,2019-08,Good Imported Beer,5094.79,pytorch_mlp,16314.7490234375
+panel_product_month,2019-09,Good Imported Beer,3560.8,pytorch_mlp,15059.9326171875
+panel_product_month,2019-10,Good Imported Beer,1983.5900000000001,pytorch_mlp,14229.31640625
+panel_product_month,2019-11,Good Imported Beer,2627.37,pytorch_mlp,12114.6181640625
+panel_product_month,2019-12,Good Imported Beer,1983.5900000000001,pytorch_mlp,11368.1171875
+panel_product_month,2019-08,Good Light Wine,337.91,pytorch_mlp,9022.2578125
+panel_product_month,2019-10,Good Light Wine,993.46,pytorch_mlp,9598.0986328125
+panel_product_month,2019-11,Good Light Wine,1329.35,pytorch_mlp,9580.1865234375
+panel_product_month,2019-12,Good Light Wine,993.46,pytorch_mlp,9476.9130859375
+panel_product_month,2019-10,Good White Zinfandel Wine,468.58000000000004,pytorch_mlp,8064.81494140625
+panel_product_month,2019-12,Good White Zinfandel Wine,468.58000000000004,pytorch_mlp,8313.6044921875
+panel_product_month,2019-08,Gorilla 1% Milk,5891.33,pytorch_mlp,17017.916015625
+panel_product_month,2019-09,Gorilla 1% Milk,20456.49,pytorch_mlp,18646.2421875
+panel_product_month,2019-10,Gorilla 1% Milk,7611.8,pytorch_mlp,19843.73828125
+panel_product_month,2019-11,Gorilla 1% Milk,19812.64,pytorch_mlp,20907.64453125
+panel_product_month,2019-12,Gorilla 1% Milk,10021.33,pytorch_mlp,27257.29296875
+panel_product_month,2019-09,Gorilla Blueberry Yogurt,9153.15,pytorch_mlp,13795.021484375
+panel_product_month,2019-10,Gorilla Blueberry Yogurt,6851.84,pytorch_mlp,14905.896484375
+panel_product_month,2019-11,Gorilla Blueberry Yogurt,8316.41,pytorch_mlp,13924.7724609375
+panel_product_month,2019-12,Gorilla Blueberry Yogurt,8231.83,pytorch_mlp,17542.7734375
+panel_product_month,2019-08,Gorilla Cheese Spread,1059.33,pytorch_mlp,10812.2578125
+panel_product_month,2019-09,Gorilla Cheese Spread,9440.09,pytorch_mlp,6376.97314453125
+panel_product_month,2019-10,Gorilla Cheese Spread,13872.56,pytorch_mlp,11575.837890625
+panel_product_month,2019-11,Gorilla Cheese Spread,10108.67,pytorch_mlp,8847.92578125
+panel_product_month,2019-12,Gorilla Cheese Spread,13872.56,pytorch_mlp,13881.828125
+panel_product_month,2019-08,Gorilla Chocolate Milk,8318.9,pytorch_mlp,18716.89453125
+panel_product_month,2019-09,Gorilla Chocolate Milk,15886.949999999999,pytorch_mlp,17659.185546875
+panel_product_month,2019-10,Gorilla Chocolate Milk,9776.06,pytorch_mlp,22039.796875
+panel_product_month,2019-11,Gorilla Chocolate Milk,10618.3,pytorch_mlp,19264.78125
+panel_product_month,2019-12,Gorilla Chocolate Milk,10092.54,pytorch_mlp,21240.11328125
+panel_product_month,2019-08,Gorilla Havarti Cheese,4987.54,pytorch_mlp,13982.65625
+panel_product_month,2019-09,Gorilla Havarti Cheese,3621.44,pytorch_mlp,14118.1630859375
+panel_product_month,2019-10,Gorilla Havarti Cheese,779.13,pytorch_mlp,16867.927734375
+panel_product_month,2019-11,Gorilla Havarti Cheese,2802.2999999999997,pytorch_mlp,11672.1083984375
+panel_product_month,2019-12,Gorilla Havarti Cheese,2331.76,pytorch_mlp,11064.4296875
+panel_product_month,2019-08,Gorilla Jack Cheese,5003.23,pytorch_mlp,17445.421875
+panel_product_month,2019-09,Gorilla Jack Cheese,8086.72,pytorch_mlp,13701.7177734375
+panel_product_month,2019-10,Gorilla Jack Cheese,9267.51,pytorch_mlp,14665.1474609375
+panel_product_month,2019-11,Gorilla Jack Cheese,6543.44,pytorch_mlp,15339.89453125
+panel_product_month,2019-12,Gorilla Jack Cheese,9267.51,pytorch_mlp,17055.1171875
+panel_product_month,2019-10,Gorilla Low Fat Cottage Cheese,662.96,pytorch_mlp,8405.2041015625
+panel_product_month,2019-12,Gorilla Low Fat Cottage Cheese,662.96,pytorch_mlp,8644.8828125
+panel_product_month,2019-08,Gorilla Low Fat String Cheese,11169.4,pytorch_mlp,27933.7421875
+panel_product_month,2019-09,Gorilla Low Fat String Cheese,9007.97,pytorch_mlp,30686.47265625
+panel_product_month,2019-10,Gorilla Low Fat String Cheese,11372.72,pytorch_mlp,18570.583984375
+panel_product_month,2019-11,Gorilla Low Fat String Cheese,8494.92,pytorch_mlp,19024.443359375
+panel_product_month,2019-12,Gorilla Low Fat String Cheese,11685.8,pytorch_mlp,17734.654296875
+panel_product_month,2019-08,Gorilla Mild Cheddar Cheese,361.55,pytorch_mlp,10599.525390625
+panel_product_month,2019-09,Gorilla Mild Cheddar Cheese,1084.64,pytorch_mlp,10879.2705078125
+panel_product_month,2019-10,Gorilla Mild Cheddar Cheese,2202.14,pytorch_mlp,11673.341796875
+panel_product_month,2019-12,Gorilla Mild Cheddar Cheese,2202.14,pytorch_mlp,9896.7685546875
+panel_product_month,2019-08,Gorilla Sour Cream,3302.6800000000003,pytorch_mlp,7446.68603515625
+panel_product_month,2019-09,Gorilla Sour Cream,550.44,pytorch_mlp,9637.109375
+panel_product_month,2019-10,Gorilla Sour Cream,4281.78,pytorch_mlp,8837.041015625
+panel_product_month,2019-11,Gorilla Sour Cream,1118.27,pytorch_mlp,10811.57421875
+panel_product_month,2019-12,Gorilla Sour Cream,4281.78,pytorch_mlp,10546.1474609375
+panel_product_month,2019-08,Gorilla Strawberry Yogurt,4154.56,pytorch_mlp,9699.1875
+panel_product_month,2019-09,Gorilla Strawberry Yogurt,1071.42,pytorch_mlp,9760.73828125
+panel_product_month,2019-10,Gorilla Strawberry Yogurt,4191.66,pytorch_mlp,10799.5751953125
+panel_product_month,2019-11,Gorilla Strawberry Yogurt,4543.3,pytorch_mlp,11483.4814453125
+panel_product_month,2019-12,Gorilla Strawberry Yogurt,4191.66,pytorch_mlp,11049.3759765625
+panel_product_month,2019-08,Gorilla String Cheese,19661.68,pytorch_mlp,27088.69921875
+panel_product_month,2019-09,Gorilla String Cheese,8547.43,pytorch_mlp,25342.31640625
+panel_product_month,2019-10,Gorilla String Cheese,12834.85,pytorch_mlp,17835.287109375
+panel_product_month,2019-11,Gorilla String Cheese,4523.99,pytorch_mlp,22515.021484375
+panel_product_month,2019-12,Gorilla String Cheese,13109.49,pytorch_mlp,16448.87109375
+panel_product_month,2019-09,Gorilla Whole Milk,1322.31,pytorch_mlp,8721.6484375
+panel_product_month,2019-10,Gorilla Whole Milk,475.46999999999997,pytorch_mlp,9533.626953125
+panel_product_month,2019-11,Gorilla Whole Milk,1983.46,pytorch_mlp,9008.45703125
+panel_product_month,2019-12,Gorilla Whole Milk,475.46999999999997,pytorch_mlp,9500.9296875
+panel_product_month,2019-08,Great Muffins,1637.94,pytorch_mlp,9204.2138671875
+panel_product_month,2019-09,Great Muffins,2222.22,pytorch_mlp,9943.421875
+panel_product_month,2019-10,Great Muffins,1652.35,pytorch_mlp,10157.025390625
+panel_product_month,2019-11,Great Muffins,921.85,pytorch_mlp,9460.60546875
+panel_product_month,2019-12,Great Muffins,2859.1499999999996,pytorch_mlp,9281.578125
+panel_product_month,2019-10,Great Pumpernickel Bread,235.17,pytorch_mlp,8702.734375
+panel_product_month,2019-12,Great Pumpernickel Bread,235.17,pytorch_mlp,8732.384765625
+panel_product_month,2019-08,High Top Asparagus,4057.4900000000002,pytorch_mlp,9902.7255859375
+panel_product_month,2019-09,High Top Asparagus,3615.88,pytorch_mlp,10522.4697265625
+panel_product_month,2019-10,High Top Asparagus,2573.2400000000002,pytorch_mlp,11712.2099609375
+panel_product_month,2019-11,High Top Asparagus,5772.19,pytorch_mlp,12056.599609375
+panel_product_month,2019-12,High Top Asparagus,2573.2400000000002,pytorch_mlp,12769.8505859375
+panel_product_month,2019-09,High Top Baby Onion,271.16,pytorch_mlp,7489.83447265625
+panel_product_month,2019-11,High Top Beets,4382.2699999999995,pytorch_mlp,10051.5107421875
+panel_product_month,2019-09,High Top Canned Peanuts,280.58,pytorch_mlp,8061.880859375
+panel_product_month,2019-10,High Top Canned Peanuts,283.54,pytorch_mlp,8786.5546875
+panel_product_month,2019-12,High Top Canned Peanuts,283.54,pytorch_mlp,8884.1376953125
+panel_product_month,2019-08,High Top Cauliflower,14348.03,pytorch_mlp,11353.654296875
+panel_product_month,2019-09,High Top Cauliflower,11039.880000000001,pytorch_mlp,15581.716796875
+panel_product_month,2019-10,High Top Cauliflower,44600.69,pytorch_mlp,17102.609375
+panel_product_month,2019-11,High Top Cauliflower,29094.69,pytorch_mlp,28491.27734375
+panel_product_month,2019-12,High Top Cauliflower,46111.4,pytorch_mlp,30392.42578125
+panel_product_month,2019-08,High Top Corn on the Cob,332.67,pytorch_mlp,8773.7939453125
+panel_product_month,2019-09,High Top Corn on the Cob,1401.68,pytorch_mlp,9169.8984375
+panel_product_month,2019-11,High Top Corn on the Cob,513.34,pytorch_mlp,9364.5966796875
+panel_product_month,2019-08,High Top Dried Mushrooms,27090.149999999998,pytorch_mlp,40724.58984375
+panel_product_month,2019-09,High Top Dried Mushrooms,60822.46,pytorch_mlp,38672.78125
+panel_product_month,2019-10,High Top Dried Mushrooms,44288.83,pytorch_mlp,48233.71875
+panel_product_month,2019-11,High Top Dried Mushrooms,51937.73,pytorch_mlp,43731.47265625
+panel_product_month,2019-12,High Top Dried Mushrooms,45258.8,pytorch_mlp,53520.984375
+panel_product_month,2019-08,High Top Firm Tofu,876.24,pytorch_mlp,6935.49560546875
+panel_product_month,2019-09,High Top Firm Tofu,2100.16,pytorch_mlp,7150.65966796875
+panel_product_month,2019-10,High Top Firm Tofu,3298.1,pytorch_mlp,8576.4599609375
+panel_product_month,2019-11,High Top Firm Tofu,1917.89,pytorch_mlp,9522.90625
+panel_product_month,2019-12,High Top Firm Tofu,3298.1,pytorch_mlp,9795.029296875
+panel_product_month,2019-08,High Top Fresh Lima Beans,272.07,pytorch_mlp,8061.03515625
+panel_product_month,2019-09,High Top Fresh Lima Beans,2040.1699999999998,pytorch_mlp,7425.572265625
+panel_product_month,2019-10,High Top Fresh Lima Beans,558.47,pytorch_mlp,8330.236328125
+panel_product_month,2019-11,High Top Fresh Lima Beans,383.63,pytorch_mlp,9212.0
+panel_product_month,2019-12,High Top Fresh Lima Beans,558.47,pytorch_mlp,8730.65234375
+panel_product_month,2019-08,High Top Fuji Apples,354.1,pytorch_mlp,7470.7578125
+panel_product_month,2019-10,High Top Fuji Apples,256.22,pytorch_mlp,8605.0859375
+panel_product_month,2019-12,High Top Fuji Apples,256.22,pytorch_mlp,8648.5537109375
+panel_product_month,2019-10,High Top Garlic,222.7,pytorch_mlp,8847.943359375
+panel_product_month,2019-12,High Top Garlic,222.7,pytorch_mlp,8805.5478515625
+panel_product_month,2019-08,High Top Golden Delcious Apples,7072.28,pytorch_mlp,13622.259765625
+panel_product_month,2019-09,High Top Golden Delcious Apples,9897.869999999999,pytorch_mlp,14578.6806640625
+panel_product_month,2019-10,High Top Golden Delcious Apples,7641.52,pytorch_mlp,16087.193359375
+panel_product_month,2019-11,High Top Golden Delcious Apples,22706.050000000003,pytorch_mlp,15129.8740234375
+panel_product_month,2019-12,High Top Golden Delcious Apples,8402.960000000001,pytorch_mlp,20079.4921875
+panel_product_month,2019-10,High Top Lettuce,641.03,pytorch_mlp,10935.6064453125
+panel_product_month,2019-11,High Top Lettuce,784.17,pytorch_mlp,10502.8115234375
+panel_product_month,2019-12,High Top Lettuce,641.03,pytorch_mlp,10306.3642578125
+panel_product_month,2019-09,High Top Limes,255.75,pytorch_mlp,7670.521484375
+panel_product_month,2019-11,High Top Limes,255.75,pytorch_mlp,8679.71875
+panel_product_month,2019-08,High Top Macintosh Apples,2190.25,pytorch_mlp,9431.353515625
+panel_product_month,2019-09,High Top Macintosh Apples,7738.05,pytorch_mlp,9167.2294921875
+panel_product_month,2019-10,High Top Macintosh Apples,5039.39,pytorch_mlp,11834.087890625
+panel_product_month,2019-11,High Top Macintosh Apples,17344.95,pytorch_mlp,12407.1884765625
+panel_product_month,2019-12,High Top Macintosh Apples,5039.39,pytorch_mlp,17084.560546875
+panel_product_month,2019-08,High Top Mandarin Oranges,207.11,pytorch_mlp,7619.22509765625
+panel_product_month,2019-09,High Top Mandarin Oranges,201.37,pytorch_mlp,8277.017578125
+panel_product_month,2019-10,High Top Mandarin Oranges,577.9100000000001,pytorch_mlp,8804.0166015625
+panel_product_month,2019-12,High Top Mandarin Oranges,577.9100000000001,pytorch_mlp,8801.1708984375
+panel_product_month,2019-08,High Top Mixed Nuts,493.15999999999997,pytorch_mlp,8791.4375
+panel_product_month,2019-09,High Top Mixed Nuts,698.78,pytorch_mlp,9592.9736328125
+panel_product_month,2019-10,High Top Onions,1655.67,pytorch_mlp,10839.9384765625
+panel_product_month,2019-11,High Top Onions,395.15,pytorch_mlp,10611.248046875
+panel_product_month,2019-12,High Top Onions,1655.67,pytorch_mlp,9958.623046875
+panel_product_month,2019-08,High Top Oranges,753.42,pytorch_mlp,7614.96630859375
+panel_product_month,2019-09,High Top Oranges,251.15,pytorch_mlp,7960.0224609375
+panel_product_month,2019-10,High Top Oranges,1256.9499999999998,pytorch_mlp,8907.4599609375
+panel_product_month,2019-11,High Top Oranges,473.05,pytorch_mlp,8913.71875
+panel_product_month,2019-12,High Top Oranges,1256.9499999999998,pytorch_mlp,8698.1640625
+panel_product_month,2019-09,High Top Party Nuts,589.15,pytorch_mlp,8182.60595703125
+panel_product_month,2019-11,High Top Party Nuts,589.15,pytorch_mlp,9132.09375
+panel_product_month,2019-08,High Top Squash,420.16999999999996,pytorch_mlp,7611.20703125
+panel_product_month,2019-09,High Top Squash,676.04,pytorch_mlp,7938.61279296875
+panel_product_month,2019-11,High Top Squash,676.04,pytorch_mlp,8855.8408203125
+panel_product_month,2019-08,High Top Summer Squash,10700.16,pytorch_mlp,22822.125
+panel_product_month,2019-09,High Top Summer Squash,3107.37,pytorch_mlp,20262.001953125
+panel_product_month,2019-10,High Top Summer Squash,3641.48,pytorch_mlp,16153.791015625
+panel_product_month,2019-11,High Top Summer Squash,3295.43,pytorch_mlp,16469.681640625
+panel_product_month,2019-12,High Top Summer Squash,3909.1,pytorch_mlp,13267.111328125
+panel_product_month,2019-08,High Top Sweet Onion,3951.62,pytorch_mlp,29381.26171875
+panel_product_month,2019-09,High Top Sweet Onion,1715.1100000000001,pytorch_mlp,43766.85546875
+panel_product_month,2019-10,High Top Sweet Onion,2572.63,pytorch_mlp,11870.099609375
+panel_product_month,2019-11,High Top Sweet Onion,2752.24,pytorch_mlp,11672.916015625
+panel_product_month,2019-12,High Top Sweet Onion,3029.13,pytorch_mlp,10746.8408203125
+panel_product_month,2019-08,High Top Tomatos,2592.7999999999997,pytorch_mlp,8540.736328125
+panel_product_month,2019-09,High Top Tomatos,8478.69,pytorch_mlp,9215.4501953125
+panel_product_month,2019-10,High Top Tomatos,27138.11,pytorch_mlp,12712.1552734375
+panel_product_month,2019-11,High Top Tomatos,6227.3,pytorch_mlp,18432.72265625
+panel_product_month,2019-12,High Top Tomatos,27138.11,pytorch_mlp,18511.90625
+panel_product_month,2019-08,High Top Walnuts,4698.09,pytorch_mlp,7835.05712890625
+panel_product_month,2019-09,High Top Walnuts,2206.18,pytorch_mlp,9365.2119140625
+panel_product_month,2019-10,High Top Walnuts,1109.25,pytorch_mlp,10665.2216796875
+panel_product_month,2019-11,High Top Walnuts,6020.07,pytorch_mlp,10570.5361328125
+panel_product_month,2019-12,High Top Walnuts,1320.48,pytorch_mlp,10601.83984375
+panel_product_month,2019-09,Imagine Apple Cinnamon Waffles,301.57,pytorch_mlp,7329.6640625
+panel_product_month,2019-10,Imagine Apple Cinnamon Waffles,928.78,pytorch_mlp,8820.6767578125
+panel_product_month,2019-11,Imagine Apple Cinnamon Waffles,796.9,pytorch_mlp,9046.396484375
+panel_product_month,2019-12,Imagine Apple Cinnamon Waffles,1230.35,pytorch_mlp,8739.6083984375
+panel_product_month,2019-08,Imagine Beef TV Dinner,207.29,pytorch_mlp,6779.47412109375
+panel_product_month,2019-09,Imagine Frozen Cheese Pizza,298.2,pytorch_mlp,7333.5234375
+panel_product_month,2019-11,Imagine Frozen Cheese Pizza,221.13,pytorch_mlp,8719.79296875
+panel_product_month,2019-09,Imagine Frozen Mushroom Pizza,652.6800000000001,pytorch_mlp,7661.51953125
+panel_product_month,2019-10,Imagine Frozen Mushroom Pizza,317.49,pytorch_mlp,8597.6357421875
+panel_product_month,2019-11,Imagine Frozen Mushroom Pizza,482.58,pytorch_mlp,8673.970703125
+panel_product_month,2019-12,Imagine Frozen Mushroom Pizza,317.49,pytorch_mlp,8645.623046875
+panel_product_month,2019-08,Imagine Frozen Pancakes,226.2,pytorch_mlp,6752.068359375
+panel_product_month,2019-10,Imagine Frozen Pancakes,248.81,pytorch_mlp,7844.4130859375
+panel_product_month,2019-12,Imagine Frozen Pancakes,248.81,pytorch_mlp,8100.07373046875
+panel_product_month,2019-12,Imagine Frozen Peas,403.7,pytorch_mlp,8253.712890625
+panel_product_month,2019-09,Imagine Frozen Pepperoni Pizza,301.57,pytorch_mlp,7001.62353515625
+panel_product_month,2019-09,Imagine Home Style French Fries,370.56,pytorch_mlp,7704.46044921875
+panel_product_month,2019-11,Imagine Home Style French Fries,262.81,pytorch_mlp,8742.6494140625
+panel_product_month,2019-08,Imagine Low Fat Waffles,2306.09,pytorch_mlp,7640.83154296875
+panel_product_month,2019-09,Imagine Low Fat Waffles,1018.1700000000001,pytorch_mlp,8617.56640625
+panel_product_month,2019-10,Imagine Low Fat Waffles,636.36,pytorch_mlp,9317.29296875
+panel_product_month,2019-11,Imagine Low Fat Waffles,604.54,pytorch_mlp,9635.6025390625
+panel_product_month,2019-12,Imagine Low Fat Waffles,1272.72,pytorch_mlp,8892.6591796875
+panel_product_month,2019-08,Imagine Orange Popsicles,436.11,pytorch_mlp,7499.70361328125
+panel_product_month,2019-10,Imagine Orange Popsicles,332.07,pytorch_mlp,8578.1474609375
+panel_product_month,2019-12,Imagine Orange Popsicles,332.07,pytorch_mlp,8629.17578125
+panel_product_month,2019-08,Imagine Pancake Mix,200.86,pytorch_mlp,7537.42529296875
+panel_product_month,2019-08,Imagine Popsicles,121081.94,pytorch_mlp,112615.8515625
+panel_product_month,2019-09,Imagine Popsicles,122814.08,pytorch_mlp,130728.0859375
+panel_product_month,2019-10,Imagine Popsicles,167109.74,pytorch_mlp,107377.8203125
+panel_product_month,2019-11,Imagine Popsicles,80519.07,pytorch_mlp,124530.234375
+panel_product_month,2019-12,Imagine Popsicles,169976.52,pytorch_mlp,114652.8125
+panel_product_month,2019-08,Jeffers Wheat Puffs,1495.08,pytorch_mlp,9165.9658203125
+panel_product_month,2019-09,Jeffers Wheat Puffs,870.93,pytorch_mlp,9862.9111328125
+panel_product_month,2019-10,Jeffers Wheat Puffs,1897.2,pytorch_mlp,9583.326171875
+panel_product_month,2019-11,Jeffers Wheat Puffs,433.2,pytorch_mlp,10356.779296875
+panel_product_month,2019-12,Jeffers Wheat Puffs,2111.55,pytorch_mlp,9925.40625
+panel_product_month,2019-09,Jumbo Small Brown Eggs,3299.09,pytorch_mlp,9389.5615234375
+panel_product_month,2019-10,Jumbo Small Brown Eggs,2239.71,pytorch_mlp,11709.8359375
+panel_product_month,2019-11,Jumbo Small Brown Eggs,2215.94,pytorch_mlp,10861.5439453125
+panel_product_month,2019-12,Jumbo Small Brown Eggs,5217.07,pytorch_mlp,10718.1533203125
+panel_product_month,2019-08,Jumbo Small Eggs,1534.49,pytorch_mlp,8154.38134765625
+panel_product_month,2019-09,Jumbo Small Eggs,2428.4700000000003,pytorch_mlp,8631.5185546875
+panel_product_month,2019-10,Jumbo Small Eggs,309.0,pytorch_mlp,9993.583984375
+panel_product_month,2019-11,Jumbo Small Eggs,2452.02,pytorch_mlp,9580.7138671875
+panel_product_month,2019-12,Jumbo Small Eggs,309.0,pytorch_mlp,9885.455078125
+panel_product_month,2019-08,Just Right Beef Soup,491.56,pytorch_mlp,7801.0830078125
+panel_product_month,2019-09,Just Right Beef Soup,277.04,pytorch_mlp,8068.9599609375
+panel_product_month,2019-11,Just Right Beef Soup,200.61,pytorch_mlp,8838.521484375
+panel_product_month,2019-12,Just Right Canned Beets,348.27,pytorch_mlp,8118.1396484375
+panel_product_month,2019-08,Just Right Canned Tuna in Water,2004.38,pytorch_mlp,13669.470703125
+panel_product_month,2019-09,Just Right Canned Tuna in Water,8404.66,pytorch_mlp,13052.82421875
+panel_product_month,2019-10,Just Right Canned Tuna in Water,6910.08,pytorch_mlp,15370.689453125
+panel_product_month,2019-11,Just Right Canned Tuna in Water,3328.4700000000003,pytorch_mlp,15088.87890625
+panel_product_month,2019-12,Just Right Canned Tuna in Water,7152.89,pytorch_mlp,16213.5078125
+panel_product_month,2019-08,Just Right Chicken Ramen Soup,3907.66,pytorch_mlp,13732.84765625
+panel_product_month,2019-09,Just Right Chicken Ramen Soup,6080.15,pytorch_mlp,13823.96875
+panel_product_month,2019-10,Just Right Chicken Ramen Soup,5815.0599999999995,pytorch_mlp,14986.8095703125
+panel_product_month,2019-11,Just Right Chicken Ramen Soup,4205.47,pytorch_mlp,13393.0078125
+panel_product_month,2019-12,Just Right Chicken Ramen Soup,7126.88,pytorch_mlp,13619.3701171875
+panel_product_month,2019-08,Just Right Fancy Canned Anchovies,1087.88,pytorch_mlp,8083.4453125
+panel_product_month,2019-10,Just Right Fancy Canned Anchovies,1797.98,pytorch_mlp,9302.609375
+panel_product_month,2019-11,Just Right Fancy Canned Anchovies,1438.39,pytorch_mlp,9615.1220703125
+panel_product_month,2019-12,Just Right Fancy Canned Anchovies,1797.98,pytorch_mlp,9566.275390625
+panel_product_month,2019-09,Just Right Fancy Canned Clams,760.8,pytorch_mlp,7402.0869140625
+panel_product_month,2019-10,Just Right Fancy Canned Clams,216.44,pytorch_mlp,8378.017578125
+panel_product_month,2019-11,Just Right Fancy Canned Clams,314.58,pytorch_mlp,8575.6708984375
+panel_product_month,2019-12,Just Right Fancy Canned Clams,216.44,pytorch_mlp,8546.59375
+panel_product_month,2019-08,Just Right Fancy Canned Oysters,239.4,pytorch_mlp,8459.44140625
+panel_product_month,2019-09,Just Right Fancy Canned Oysters,932.9399999999999,pytorch_mlp,8492.1318359375
+panel_product_month,2019-10,Just Right Fancy Canned Oysters,732.66,pytorch_mlp,9313.0068359375
+panel_product_month,2019-11,Just Right Fancy Canned Oysters,459.14,pytorch_mlp,9237.6005859375
+panel_product_month,2019-12,Just Right Fancy Canned Oysters,732.66,pytorch_mlp,9165.4833984375
+panel_product_month,2019-08,Just Right Large Canned Shrimp,1013.01,pytorch_mlp,7954.56396484375
+panel_product_month,2019-10,Just Right Large Canned Shrimp,1674.24,pytorch_mlp,9163.7509765625
+panel_product_month,2019-11,Just Right Large Canned Shrimp,1339.39,pytorch_mlp,9495.119140625
+panel_product_month,2019-12,Just Right Large Canned Shrimp,1674.24,pytorch_mlp,9437.484375
+panel_product_month,2019-08,Just Right Regular Ramen Soup,821.94,pytorch_mlp,9553.8017578125
+panel_product_month,2019-09,Just Right Regular Ramen Soup,821.94,pytorch_mlp,10242.3359375
+panel_product_month,2019-11,Just Right Regular Ramen Soup,273.98,pytorch_mlp,9999.1259765625
+panel_product_month,2019-08,Kiwi Scallops,572.96,pytorch_mlp,7415.259765625
+panel_product_month,2019-09,Kiwi Scallops,216.0,pytorch_mlp,9321.3544921875
+panel_product_month,2019-10,Kiwi Scallops,498.75,pytorch_mlp,8368.193359375
+panel_product_month,2019-11,Kiwi Scallops,258.65,pytorch_mlp,8268.796875
+panel_product_month,2019-12,Kiwi Scallops,498.75,pytorch_mlp,8432.888671875
+panel_product_month,2019-08,Landslide Canola Oil,852.58,pytorch_mlp,7794.095703125
+panel_product_month,2019-10,Landslide Canola Oil,16625.12,pytorch_mlp,9640.39453125
+panel_product_month,2019-11,Landslide Canola Oil,6336.0,pytorch_mlp,14535.353515625
+panel_product_month,2019-12,Landslide Canola Oil,16625.12,pytorch_mlp,16175.51953125
+panel_product_month,2019-08,Landslide Creamy Peanut Butter,502.57000000000005,pytorch_mlp,8472.140625
+panel_product_month,2019-09,Landslide Creamy Peanut Butter,1499.49,pytorch_mlp,8338.7978515625
+panel_product_month,2019-10,Landslide Creamy Peanut Butter,987.64,pytorch_mlp,9537.041015625
+panel_product_month,2019-11,Landslide Creamy Peanut Butter,294.39,pytorch_mlp,9470.41015625
+panel_product_month,2019-12,Landslide Creamy Peanut Butter,987.64,pytorch_mlp,9398.0595703125
+panel_product_month,2019-08,Landslide French Roast Coffee,842.3,pytorch_mlp,9003.2109375
+panel_product_month,2019-09,Landslide French Roast Coffee,1920.46,pytorch_mlp,9417.369140625
+panel_product_month,2019-10,Landslide French Roast Coffee,3748.3900000000003,pytorch_mlp,10598.5234375
+panel_product_month,2019-11,Landslide French Roast Coffee,593.49,pytorch_mlp,10491.4560546875
+panel_product_month,2019-12,Landslide French Roast Coffee,3748.3900000000003,pytorch_mlp,10239.38671875
+panel_product_month,2019-09,Landslide Grape Jelly,2301.68,pytorch_mlp,9548.0732421875
+panel_product_month,2019-10,Landslide Grape Jelly,1709.4499999999998,pytorch_mlp,10027.48828125
+panel_product_month,2019-11,Landslide Grape Jelly,2301.68,pytorch_mlp,10874.34765625
+panel_product_month,2019-12,Landslide Grape Jelly,1998.29,pytorch_mlp,12502.8310546875
+panel_product_month,2019-12,Landslide Low Fat Apple Butter,232.9,pytorch_mlp,8434.498046875
+panel_product_month,2019-08,Landslide Oregano,478.09000000000003,pytorch_mlp,7896.4794921875
+panel_product_month,2019-09,Landslide Oregano,1302.1100000000001,pytorch_mlp,8322.041015625
+panel_product_month,2019-10,Landslide Oregano,630.94,pytorch_mlp,9084.224609375
+panel_product_month,2019-11,Landslide Oregano,1491.18,pytorch_mlp,9107.505859375
+panel_product_month,2019-12,Landslide Oregano,630.94,pytorch_mlp,9360.708984375
+panel_product_month,2019-08,Landslide Pepper,6263.76,pytorch_mlp,10486.3828125
+panel_product_month,2019-09,Landslide Pepper,3470.08,pytorch_mlp,11983.896484375
+panel_product_month,2019-10,Landslide Pepper,4537.33,pytorch_mlp,11808.6875
+panel_product_month,2019-11,Landslide Pepper,4513.07,pytorch_mlp,12861.04296875
+panel_product_month,2019-12,Landslide Pepper,4537.33,pytorch_mlp,11943.5078125
+panel_product_month,2019-08,Landslide Salt,247.77,pytorch_mlp,7170.6064453125
+panel_product_month,2019-08,Landslide Sesame Oil,607.22,pytorch_mlp,7398.3408203125
+panel_product_month,2019-09,Landslide Sesame Oil,1371.04,pytorch_mlp,8084.68212890625
+panel_product_month,2019-10,Landslide Sesame Oil,675.11,pytorch_mlp,9493.07421875
+panel_product_month,2019-11,Landslide Sesame Oil,1477.67,pytorch_mlp,9419.572265625
+panel_product_month,2019-12,Landslide Sesame Oil,951.88,pytorch_mlp,9906.28515625
+panel_product_month,2019-08,Landslide Vegetable Oil,986.76,pytorch_mlp,8781.6962890625
+panel_product_month,2019-09,Landslide Vegetable Oil,246.69,pytorch_mlp,9832.798828125
+panel_product_month,2019-10,Landslide Vegetable Oil,493.38,pytorch_mlp,9143.1474609375
+panel_product_month,2019-11,Landslide Vegetable Oil,742.67,pytorch_mlp,9763.859375
+panel_product_month,2019-12,Landslide Vegetable Oil,493.38,pytorch_mlp,9744.8701171875
+panel_product_month,2019-08,Landslide White Sugar,463.73,pytorch_mlp,8731.13671875
+panel_product_month,2019-10,Landslide White Sugar,2248.74,pytorch_mlp,9029.98046875
+panel_product_month,2019-11,Landslide White Sugar,454.43,pytorch_mlp,9985.7646484375
+panel_product_month,2019-12,Landslide White Sugar,2248.74,pytorch_mlp,10005.201171875
+panel_product_month,2019-09,Medalist Thai Rice,760.5899999999999,pytorch_mlp,8401.865234375
+panel_product_month,2019-09,Moms Beef Bologna,1009.4,pytorch_mlp,8334.267578125
+panel_product_month,2019-10,Moms Beef Bologna,208.22,pytorch_mlp,8993.662109375
+panel_product_month,2019-11,Moms Beef Bologna,203.92,pytorch_mlp,9140.66796875
+panel_product_month,2019-12,Moms Beef Bologna,412.14,pytorch_mlp,8936.57421875
+panel_product_month,2019-08,Moms Corned Beef,7120.13,pytorch_mlp,11993.8642578125
+panel_product_month,2019-09,Moms Corned Beef,3901.21,pytorch_mlp,13194.40234375
+panel_product_month,2019-10,Moms Corned Beef,5025.21,pytorch_mlp,12490.8759765625
+panel_product_month,2019-11,Moms Corned Beef,7044.08,pytorch_mlp,13435.3681640625
+panel_product_month,2019-12,Moms Corned Beef,5269.92,pytorch_mlp,13182.62890625
+panel_product_month,2019-08,Moms Low Fat Bologna,932.5699999999999,pytorch_mlp,9684.970703125
+panel_product_month,2019-09,Moms Low Fat Bologna,4446.28,pytorch_mlp,9025.3505859375
+panel_product_month,2019-10,Moms Low Fat Bologna,2085.35,pytorch_mlp,10396.9609375
+panel_product_month,2019-11,Moms Low Fat Bologna,830.62,pytorch_mlp,10708.4453125
+panel_product_month,2019-12,Moms Low Fat Bologna,2085.35,pytorch_mlp,10905.3603515625
+panel_product_month,2019-08,Moms Potato Salad,4895.64,pytorch_mlp,10426.4228515625
+panel_product_month,2019-09,Moms Potato Salad,2221.2,pytorch_mlp,11149.361328125
+panel_product_month,2019-10,Moms Potato Salad,4391.42,pytorch_mlp,12720.6474609375
+panel_product_month,2019-11,Moms Potato Salad,4068.7000000000003,pytorch_mlp,12215.82421875
+panel_product_month,2019-12,Moms Potato Salad,4621.45,pytorch_mlp,11548.388671875
+panel_product_month,2019-08,Moms Roasted Chicken,13403.54,pytorch_mlp,20849.72265625
+panel_product_month,2019-09,Moms Roasted Chicken,32168.48,pytorch_mlp,22434.99609375
+panel_product_month,2019-10,Moms Roasted Chicken,24126.36,pytorch_mlp,25112.765625
+panel_product_month,2019-11,Moms Roasted Chicken,6701.77,pytorch_mlp,28145.0234375
+panel_product_month,2019-12,Moms Roasted Chicken,24126.36,pytorch_mlp,29380.1796875
+panel_product_month,2019-08,Moms Sliced Chicken,1039.8,pytorch_mlp,9213.7666015625
+panel_product_month,2019-09,Moms Sliced Chicken,1465.34,pytorch_mlp,9410.7880859375
+panel_product_month,2019-10,Moms Sliced Chicken,2160.96,pytorch_mlp,10010.236328125
+panel_product_month,2019-11,Moms Sliced Chicken,2136.48,pytorch_mlp,10133.7587890625
+panel_product_month,2019-12,Moms Sliced Chicken,2160.96,pytorch_mlp,10372.62109375
+panel_product_month,2019-08,Moms Sliced Ham,34947.33,pytorch_mlp,31932.6328125
+panel_product_month,2019-09,Moms Sliced Ham,72348.95,pytorch_mlp,37779.01171875
+panel_product_month,2019-10,Moms Sliced Ham,75831.66,pytorch_mlp,48632.23046875
+panel_product_month,2019-11,Moms Sliced Ham,82684.49,pytorch_mlp,55685.140625
+panel_product_month,2019-12,Moms Sliced Ham,76711.28,pytorch_mlp,69878.09375
+panel_product_month,2019-08,Moms Sliced Turkey,87074.8,pytorch_mlp,145939.46875
+panel_product_month,2019-09,Moms Sliced Turkey,119031.12,pytorch_mlp,137315.40625
+panel_product_month,2019-10,Moms Sliced Turkey,148969.8,pytorch_mlp,131433.828125
+panel_product_month,2019-11,Moms Sliced Turkey,90902.78,pytorch_mlp,105189.3125
+panel_product_month,2019-12,Moms Sliced Turkey,154170.13,pytorch_mlp,108038.4921875
+panel_product_month,2019-08,Monarch Ravioli,11405.63,pytorch_mlp,22221.3359375
+panel_product_month,2019-09,Monarch Ravioli,9020.52,pytorch_mlp,22920.4140625
+panel_product_month,2019-10,Monarch Ravioli,15368.88,pytorch_mlp,25489.74609375
+panel_product_month,2019-11,Monarch Ravioli,26254.49,pytorch_mlp,22182.919921875
+panel_product_month,2019-12,Monarch Ravioli,16797.55,pytorch_mlp,26766.28515625
+panel_product_month,2019-11,Monarch Rice Medly,6498.59,pytorch_mlp,11003.5478515625
+panel_product_month,2019-11,Monarch Thai Rice,5576.45,pytorch_mlp,11485.5830078125
+panel_product_month,2019-11,Nationeel Apple Fruit Roll,3939.84,pytorch_mlp,14202.6826171875
+panel_product_month,2019-08,Nationeel Avocado Dip,9624.39,pytorch_mlp,23280.4453125
+panel_product_month,2019-09,Nationeel Avocado Dip,14287.58,pytorch_mlp,23059.744140625
+panel_product_month,2019-10,Nationeel Avocado Dip,26834.78,pytorch_mlp,25463.958984375
+panel_product_month,2019-11,Nationeel Avocado Dip,13349.61,pytorch_mlp,26312.67578125
+panel_product_month,2019-12,Nationeel Avocado Dip,27372.34,pytorch_mlp,27378.96875
+panel_product_month,2019-08,Nationeel Beef Jerky,5126.0,pytorch_mlp,11209.81640625
+panel_product_month,2019-09,Nationeel Beef Jerky,2434.54,pytorch_mlp,11838.62109375
+panel_product_month,2019-10,Nationeel Beef Jerky,15062.68,pytorch_mlp,12309.2138671875
+panel_product_month,2019-11,Nationeel Beef Jerky,5794.43,pytorch_mlp,15043.6337890625
+panel_product_month,2019-12,Nationeel Beef Jerky,15062.68,pytorch_mlp,14094.525390625
+panel_product_month,2019-08,Nationeel Chocolate Chip Cookies,205.38,pytorch_mlp,13746.1015625
+panel_product_month,2019-09,Nationeel Chocolate Chip Cookies,10372.59,pytorch_mlp,10929.544921875
+panel_product_month,2019-11,Nationeel Chocolate Chip Cookies,315.13,pytorch_mlp,13231.92578125
+panel_product_month,2019-08,Nationeel Chocolate Donuts,222.67,pytorch_mlp,7776.21826171875
+panel_product_month,2019-11,Nationeel Chocolate Donuts,2150.0699999999997,pytorch_mlp,8939.349609375
+panel_product_month,2019-08,Nationeel Corn Chips,261.98,pytorch_mlp,8037.2626953125
+panel_product_month,2019-09,Nationeel Corn Chips,1571.9,pytorch_mlp,7810.5029296875
+panel_product_month,2019-10,Nationeel Corn Chips,221.82,pytorch_mlp,9258.919921875
+panel_product_month,2019-12,Nationeel Corn Chips,221.82,pytorch_mlp,8417.712890625
+panel_product_month,2019-08,Nationeel Dried Dates,4648.64,pytorch_mlp,10691.2421875
+panel_product_month,2019-09,Nationeel Dried Dates,1662.2200000000003,pytorch_mlp,12123.1552734375
+panel_product_month,2019-10,Nationeel Dried Dates,5320.650000000001,pytorch_mlp,12049.9951171875
+panel_product_month,2019-11,Nationeel Dried Dates,2061.2400000000002,pytorch_mlp,14124.9736328125
+panel_product_month,2019-12,Nationeel Dried Dates,5320.650000000001,pytorch_mlp,13265.626953125
+panel_product_month,2019-11,Nationeel Frosted Cookies,3015.54,pytorch_mlp,10061.0556640625
+panel_product_month,2019-10,Nationeel Frosted Donuts,362.09,pytorch_mlp,8866.0224609375
+panel_product_month,2019-11,Nationeel Frosted Donuts,448.51,pytorch_mlp,8023.20068359375
+panel_product_month,2019-12,Nationeel Frosted Donuts,362.09,pytorch_mlp,8884.2236328125
+panel_product_month,2019-09,Nationeel Fudge Cookies,533.36,pytorch_mlp,8113.3203125
+panel_product_month,2019-10,Nationeel Fudge Cookies,380.97,pytorch_mlp,8735.48046875
+panel_product_month,2019-11,Nationeel Fudge Cookies,609.55,pytorch_mlp,8858.9326171875
+panel_product_month,2019-12,Nationeel Fudge Cookies,380.97,pytorch_mlp,8749.7412109375
+panel_product_month,2019-08,Nationeel Golden Raisins,539.27,pytorch_mlp,7753.55712890625
+panel_product_month,2019-09,Nationeel Golden Raisins,1306.08,pytorch_mlp,8304.01171875
+panel_product_month,2019-10,Nationeel Golden Raisins,266.86,pytorch_mlp,8657.919921875
+panel_product_month,2019-11,Nationeel Golden Raisins,1060.7,pytorch_mlp,8795.23828125
+panel_product_month,2019-12,Nationeel Golden Raisins,473.72,pytorch_mlp,8972.3671875
+panel_product_month,2019-11,Nationeel Graham Crackers,3377.64,pytorch_mlp,12788.29296875
+panel_product_month,2019-08,Nationeel Grape Fruit Roll,4594.37,pytorch_mlp,14251.0966796875
+panel_product_month,2019-09,Nationeel Grape Fruit Roll,12672.91,pytorch_mlp,13737.6875
+panel_product_month,2019-10,Nationeel Grape Fruit Roll,2609.87,pytorch_mlp,17125.64453125
+panel_product_month,2019-11,Nationeel Grape Fruit Roll,2609.98,pytorch_mlp,14088.3974609375
+panel_product_month,2019-12,Nationeel Grape Fruit Roll,3411.63,pytorch_mlp,14769.6611328125
+panel_product_month,2019-09,Nationeel Lemon Cookies,1687.2,pytorch_mlp,8206.841796875
+panel_product_month,2019-10,Nationeel Low Fat BBQ Chips,761.94,pytorch_mlp,9137.0546875
+panel_product_month,2019-11,Nationeel Low Fat BBQ Chips,609.55,pytorch_mlp,9225.5546875
+panel_product_month,2019-12,Nationeel Low Fat BBQ Chips,761.94,pytorch_mlp,9176.2548828125
+panel_product_month,2019-09,Nationeel Low Fat Chips,490.83,pytorch_mlp,9457.48828125
+panel_product_month,2019-10,Nationeel Low Fat Chips,2706.22,pytorch_mlp,9692.33984375
+panel_product_month,2019-11,Nationeel Low Fat Chips,244.23,pytorch_mlp,9833.6845703125
+panel_product_month,2019-12,Nationeel Low Fat Chips,2952.8199999999997,pytorch_mlp,9430.7041015625
+panel_product_month,2019-08,Nationeel Low Fat Popcorn,1752.8400000000001,pytorch_mlp,7799.75537109375
+panel_product_month,2019-09,Nationeel Low Fat Popcorn,684.8,pytorch_mlp,8766.19921875
+panel_product_month,2019-10,Nationeel Low Fat Popcorn,2902.2400000000002,pytorch_mlp,9070.837890625
+panel_product_month,2019-11,Nationeel Low Fat Popcorn,3518.96,pytorch_mlp,10006.01953125
+panel_product_month,2019-12,Nationeel Low Fat Popcorn,2902.2400000000002,pytorch_mlp,10245.40625
+panel_product_month,2019-11,Nationeel Mini Donuts,233.7,pytorch_mlp,8751.61328125
+panel_product_month,2019-08,Nationeel Potato Chips,9502.630000000001,pytorch_mlp,13112.9892578125
+panel_product_month,2019-09,Nationeel Potato Chips,7857.44,pytorch_mlp,14272.6787109375
+panel_product_month,2019-10,Nationeel Potato Chips,10358.45,pytorch_mlp,15556.587890625
+panel_product_month,2019-11,Nationeel Potato Chips,14608.14,pytorch_mlp,15666.7587890625
+panel_product_month,2019-12,Nationeel Potato Chips,12488.029999999999,pytorch_mlp,16614.560546875
+panel_product_month,2019-08,Nationeel Raisins,2364.56,pytorch_mlp,10001.4296875
+panel_product_month,2019-09,Nationeel Raisins,7855.21,pytorch_mlp,9791.4580078125
+panel_product_month,2019-10,Nationeel Raisins,3254.1800000000003,pytorch_mlp,13479.4853515625
+panel_product_month,2019-11,Nationeel Raisins,2256.59,pytorch_mlp,12203.794921875
+panel_product_month,2019-12,Nationeel Raisins,3254.1800000000003,pytorch_mlp,12558.330078125
+panel_product_month,2019-09,Nationeel Raspberry Fruit Roll,475.33,pytorch_mlp,8661.4287109375
+panel_product_month,2019-11,Nationeel Raspberry Fruit Roll,782.71,pytorch_mlp,8993.2236328125
+panel_product_month,2019-09,Nationeel Salsa Dip,220.33,pytorch_mlp,9494.5966796875
+panel_product_month,2019-10,Nationeel Salsa Dip,3621.3,pytorch_mlp,10026.3134765625
+panel_product_month,2019-11,Nationeel Salsa Dip,3431.86,pytorch_mlp,10441.6181640625
+panel_product_month,2019-12,Nationeel Salsa Dip,3621.3,pytorch_mlp,10158.72265625
+panel_product_month,2019-08,Nationeel Salted Pretzels,11888.91,pytorch_mlp,30877.52734375
+panel_product_month,2019-09,Nationeel Salted Pretzels,52636.21,pytorch_mlp,31783.421875
+panel_product_month,2019-10,Nationeel Salted Pretzels,54185.54,pytorch_mlp,37964.91015625
+panel_product_month,2019-11,Nationeel Salted Pretzels,91261.14,pytorch_mlp,40359.37109375
+panel_product_month,2019-12,Nationeel Salted Pretzels,55100.54,pytorch_mlp,62298.26953125
+panel_product_month,2019-09,Nationeel Sugar Cookies,315.13,pytorch_mlp,13481.4677734375
+panel_product_month,2019-11,Nationeel Sugar Cookies,315.13,pytorch_mlp,15229.966796875
+panel_product_month,2019-08,Pearl Chardonnay,15766.01,pytorch_mlp,20584.068359375
+panel_product_month,2019-09,Pearl Chardonnay,10335.24,pytorch_mlp,19186.716796875
+panel_product_month,2019-10,Pearl Chardonnay,9952.75,pytorch_mlp,18975.8828125
+panel_product_month,2019-11,Pearl Chardonnay,11179.48,pytorch_mlp,18940.78125
+panel_product_month,2019-12,Pearl Chardonnay,11047.26,pytorch_mlp,17184.390625
+panel_product_month,2019-09,Pearl Chardonnay Wine,1694.8500000000001,pytorch_mlp,7676.0615234375
+panel_product_month,2019-08,Pearl Light Beer,254.32,pytorch_mlp,7129.8876953125
+panel_product_month,2019-08,Quick Extra Lean Hamburger,406.6,pytorch_mlp,7322.25537109375
+panel_product_month,2019-10,Quick Extra Lean Hamburger,705.1,pytorch_mlp,8501.296875
+panel_product_month,2019-11,Quick Extra Lean Hamburger,302.74,pytorch_mlp,8850.5400390625
+panel_product_month,2019-12,Quick Extra Lean Hamburger,705.1,pytorch_mlp,8636.6533203125
+panel_product_month,2019-08,Quick Seasoned Hamburger,210.92,pytorch_mlp,7272.84619140625
+panel_product_month,2019-10,Quick Seasoned Hamburger,603.54,pytorch_mlp,8303.228515625
+panel_product_month,2019-11,Quick Seasoned Hamburger,1313.88,pytorch_mlp,8753.4580078125
+panel_product_month,2019-12,Quick Seasoned Hamburger,603.54,pytorch_mlp,8782.5087890625
+panel_product_month,2019-08,Radius Grits,270.99,pytorch_mlp,9202.76171875
+panel_product_month,2019-09,Radius Grits,545.14,pytorch_mlp,9826.8828125
+panel_product_month,2019-10,Radius Grits,2551.37,pytorch_mlp,9738.6494140625
+panel_product_month,2019-11,Radius Grits,576.51,pytorch_mlp,10670.03515625
+panel_product_month,2019-12,Radius Grits,2551.37,pytorch_mlp,11188.6591796875
+panel_product_month,2019-09,Radius Oatmeal,874.36,pytorch_mlp,7190.853515625
+panel_product_month,2019-11,Radius Oatmeal,437.18,pytorch_mlp,8443.984375
+panel_product_month,2019-09,Radius Wheat Puffs,432.9,pytorch_mlp,8115.32373046875
+panel_product_month,2019-11,Radius Wheat Puffs,219.65,pytorch_mlp,8944.6376953125
+panel_product_month,2019-08,Red Spade Beef Bologna,9056.54,pytorch_mlp,18768.54296875
+panel_product_month,2019-09,Red Spade Beef Bologna,10425.39,pytorch_mlp,17058.14453125
+panel_product_month,2019-10,Red Spade Beef Bologna,13898.69,pytorch_mlp,18103.591796875
+panel_product_month,2019-11,Red Spade Beef Bologna,9761.97,pytorch_mlp,17727.568359375
+panel_product_month,2019-12,Red Spade Beef Bologna,15056.86,pytorch_mlp,17615.14453125
+panel_product_month,2019-08,Red Spade Foot-Long Hot Dogs,72912.93,pytorch_mlp,89470.21875
+panel_product_month,2019-09,Red Spade Foot-Long Hot Dogs,94612.69,pytorch_mlp,102345.828125
+panel_product_month,2019-10,Red Spade Foot-Long Hot Dogs,108143.95999999999,pytorch_mlp,93991.703125
+panel_product_month,2019-11,Red Spade Foot-Long Hot Dogs,111484.36,pytorch_mlp,91626.3359375
+panel_product_month,2019-12,Red Spade Foot-Long Hot Dogs,113834.78,pytorch_mlp,105023.15625
+panel_product_month,2019-08,Red Spade Low Fat Bologna,36328.47,pytorch_mlp,50411.03515625
+panel_product_month,2019-09,Red Spade Low Fat Bologna,87932.3,pytorch_mlp,52369.99609375
+panel_product_month,2019-10,Red Spade Low Fat Bologna,62088.43,pytorch_mlp,63770.77734375
+panel_product_month,2019-11,Red Spade Low Fat Bologna,49779.66,pytorch_mlp,57898.76171875
+panel_product_month,2019-12,Red Spade Low Fat Bologna,82793.28,pytorch_mlp,68661.015625
+panel_product_month,2019-08,Red Spade Low Fat Cole Slaw,33650.72,pytorch_mlp,46027.75390625
+panel_product_month,2019-09,Red Spade Low Fat Cole Slaw,56466.98,pytorch_mlp,47255.52734375
+panel_product_month,2019-10,Red Spade Low Fat Cole Slaw,23533.6,pytorch_mlp,54290.609375
+panel_product_month,2019-11,Red Spade Low Fat Cole Slaw,30784.52,pytorch_mlp,42090.7734375
+panel_product_month,2019-12,Red Spade Low Fat Cole Slaw,28161.54,pytorch_mlp,47102.3046875
+panel_product_month,2019-08,Red Spade Turkey Hot Dogs,76877.78,pytorch_mlp,115860.125
+panel_product_month,2019-09,Red Spade Turkey Hot Dogs,114622.59,pytorch_mlp,143041.90625
+panel_product_month,2019-10,Red Spade Turkey Hot Dogs,61734.97,pytorch_mlp,96907.8203125
+panel_product_month,2019-11,Red Spade Turkey Hot Dogs,55797.41,pytorch_mlp,80607.8203125
+panel_product_month,2019-12,Red Spade Turkey Hot Dogs,64822.4,pytorch_mlp,84388.4140625
+panel_product_month,2019-08,Shady Lake Manicotti,2262.0699999999997,pytorch_mlp,9185.78515625
+panel_product_month,2019-10,Shady Lake Manicotti,4524.15,pytorch_mlp,10199.3388671875
+panel_product_month,2019-12,Shady Lake Manicotti,4524.15,pytorch_mlp,11261.919921875
+panel_product_month,2019-08,Shady Lake Rice Medly,1552.71,pytorch_mlp,9651.2373046875
+panel_product_month,2019-09,Shady Lake Rice Medly,1401.48,pytorch_mlp,10292.9033203125
+panel_product_month,2019-10,Shady Lake Rice Medly,3769.1,pytorch_mlp,10191.091796875
+panel_product_month,2019-11,Shady Lake Rice Medly,3458.9300000000003,pytorch_mlp,10754.9609375
+panel_product_month,2019-12,Shady Lake Rice Medly,4414.12,pytorch_mlp,10994.50390625
+panel_product_month,2019-08,Shady Lake Thai Rice,7744.83,pytorch_mlp,11249.16796875
+panel_product_month,2019-09,Shady Lake Thai Rice,3757.16,pytorch_mlp,11964.79296875
+panel_product_month,2019-10,Shady Lake Thai Rice,5566.09,pytorch_mlp,13161.7197265625
+panel_product_month,2019-11,Shady Lake Thai Rice,4889.12,pytorch_mlp,13958.6923828125
+panel_product_month,2019-12,Shady Lake Thai Rice,5566.09,pytorch_mlp,12687.6240234375
+panel_product_month,2019-08,Ship Shape Extra Lean Hamburger,362.44,pytorch_mlp,8660.83203125
+panel_product_month,2019-09,Ship Shape Extra Lean Hamburger,681.38,pytorch_mlp,9738.9697265625
+panel_product_month,2019-10,Ship Shape Extra Lean Hamburger,370.06,pytorch_mlp,9579.6875
+panel_product_month,2019-12,Ship Shape Extra Lean Hamburger,370.06,pytorch_mlp,10761.28515625
+panel_product_month,2019-09,Special Corn Puffs,994.8199999999999,pytorch_mlp,7975.13671875
+panel_product_month,2019-10,Special Corn Puffs,2306.1800000000003,pytorch_mlp,8776.201171875
+panel_product_month,2019-11,Special Corn Puffs,310.88,pytorch_mlp,9299.150390625
+panel_product_month,2019-12,Special Corn Puffs,2306.1800000000003,pytorch_mlp,9142.5048828125
+panel_product_month,2019-08,Special Grits,290.27,pytorch_mlp,7011.5927734375
+panel_product_month,2019-09,Special Grits,377.85,pytorch_mlp,7229.19091796875
+panel_product_month,2019-10,Special Grits,302.28,pytorch_mlp,8154.1337890625
+panel_product_month,2019-11,Special Grits,668.12,pytorch_mlp,8296.8544921875
+panel_product_month,2019-12,Special Grits,302.28,pytorch_mlp,8405.0390625
+panel_product_month,2019-11,Special Oatmeal,205.76,pytorch_mlp,8218.07421875
+panel_product_month,2019-08,Special Wheat Puffs,313.64,pytorch_mlp,7080.17626953125
+panel_product_month,2019-09,Special Wheat Puffs,200.52,pytorch_mlp,7430.2353515625
+panel_product_month,2019-10,Special Wheat Puffs,200.52,pytorch_mlp,8148.6279296875
+panel_product_month,2019-11,Special Wheat Puffs,200.52,pytorch_mlp,8390.029296875
+panel_product_month,2019-12,Special Wheat Puffs,200.52,pytorch_mlp,8289.521484375
+panel_product_month,2019-08,Super Apple Butter,203.92,pytorch_mlp,7924.82861328125
+panel_product_month,2019-09,Super Apple Butter,1474.37,pytorch_mlp,8022.32568359375
+panel_product_month,2019-10,Super Apple Butter,491.46000000000004,pytorch_mlp,9292.7978515625
+panel_product_month,2019-11,Super Apple Butter,985.06,pytorch_mlp,9151.01171875
+panel_product_month,2019-12,Super Apple Butter,695.38,pytorch_mlp,9413.6044921875
+panel_product_month,2019-08,Super Apple Jelly,254.81,pytorch_mlp,7765.64306640625
+panel_product_month,2019-09,Super Apple Jelly,905.4300000000001,pytorch_mlp,8225.8916015625
+panel_product_month,2019-10,Super Apple Jelly,507.74,pytorch_mlp,8921.7109375
+panel_product_month,2019-11,Super Apple Jelly,1567.6100000000001,pytorch_mlp,8931.5390625
+panel_product_month,2019-12,Super Apple Jelly,507.74,pytorch_mlp,9229.4931640625
+panel_product_month,2019-12,Super Canola Oil,412.88,pytorch_mlp,8289.0869140625
+panel_product_month,2019-08,Super Creamy Peanut Butter,3598.87,pytorch_mlp,7982.2578125
+panel_product_month,2019-09,Super Creamy Peanut Butter,2388.24,pytorch_mlp,9039.775390625
+panel_product_month,2019-10,Super Creamy Peanut Butter,5088.07,pytorch_mlp,10507.388671875
+panel_product_month,2019-11,Super Creamy Peanut Butter,211.23,pytorch_mlp,11300.0302734375
+panel_product_month,2019-12,Super Creamy Peanut Butter,5088.07,pytorch_mlp,9993.021484375
+panel_product_month,2019-11,Super Extra Chunky Peanut Butter,379.48,pytorch_mlp,9065.318359375
+panel_product_month,2019-08,Super Low Fat Apple Butter,5083.2,pytorch_mlp,9158.275390625
+panel_product_month,2019-10,Super Low Fat Apple Butter,872.86,pytorch_mlp,11195.4755859375
+panel_product_month,2019-11,Super Low Fat Apple Butter,1228.64,pytorch_mlp,11087.9130859375
+panel_product_month,2019-12,Super Low Fat Apple Butter,872.86,pytorch_mlp,11821.90234375
+panel_product_month,2019-08,Super Regular Coffee,232.49,pytorch_mlp,6867.9794921875
+panel_product_month,2019-09,Super Regular Coffee,265.54,pytorch_mlp,7131.21044921875
+panel_product_month,2019-11,Super Regular Coffee,201.77,pytorch_mlp,8210.46484375
+panel_product_month,2019-08,Super Sesame Oil,2071.83,pytorch_mlp,9589.8583984375
+panel_product_month,2019-09,Super Sesame Oil,874.29,pytorch_mlp,9974.48046875
+panel_product_month,2019-10,Super Sesame Oil,721.0,pytorch_mlp,11612.85546875
+panel_product_month,2019-11,Super Sesame Oil,482.32,pytorch_mlp,9646.916015625
+panel_product_month,2019-12,Super Sesame Oil,721.0,pytorch_mlp,8961.291015625
+panel_product_month,2019-08,Super Strawberry Preserves,3445.89,pytorch_mlp,10318.904296875
+panel_product_month,2019-09,Super Strawberry Preserves,3322.91,pytorch_mlp,11859.7060546875
+panel_product_month,2019-10,Super Strawberry Preserves,774.62,pytorch_mlp,12840.3359375
+panel_product_month,2019-11,Super Strawberry Preserves,1813.58,pytorch_mlp,12412.333984375
+panel_product_month,2019-12,Super Strawberry Preserves,1533.28,pytorch_mlp,12265.8388671875
+panel_product_month,2019-08,Super Vegetable Oil,952.26,pytorch_mlp,9271.63671875
+panel_product_month,2019-09,Super Vegetable Oil,3034.11,pytorch_mlp,8607.15234375
+panel_product_month,2019-10,Super Vegetable Oil,2428.86,pytorch_mlp,9638.2841796875
+panel_product_month,2019-11,Super Vegetable Oil,3249.41,pytorch_mlp,10254.3701171875
+panel_product_month,2019-12,Super Vegetable Oil,2763.75,pytorch_mlp,10927.326171875
+panel_product_month,2019-08,Super White Sugar,2254.5299999999997,pytorch_mlp,9188.6748046875
+panel_product_month,2019-09,Super White Sugar,4076.48,pytorch_mlp,9779.57421875
+panel_product_month,2019-10,Super White Sugar,2996.49,pytorch_mlp,10986.1962890625
+panel_product_month,2019-11,Super White Sugar,874.9100000000001,pytorch_mlp,11133.4453125
+panel_product_month,2019-12,Super White Sugar,3463.89,pytorch_mlp,10765.978515625
+panel_product_month,2019-09,Swell Canned Mixed Fruit,242.18,pytorch_mlp,8113.67041015625
+panel_product_month,2019-08,Tell Tale Almonds,2028.21,pytorch_mlp,20100.1640625
+panel_product_month,2019-09,Tell Tale Almonds,1686.13,pytorch_mlp,15583.10546875
+panel_product_month,2019-10,Tell Tale Almonds,1275.9,pytorch_mlp,11740.546875
+panel_product_month,2019-11,Tell Tale Almonds,1443.7,pytorch_mlp,10296.986328125
+panel_product_month,2019-12,Tell Tale Almonds,1275.9,pytorch_mlp,10080.083984375
+panel_product_month,2019-08,Tell Tale Beets,1740.58,pytorch_mlp,3804.3779296875
+panel_product_month,2019-09,Tell Tale Beets,2541.26,pytorch_mlp,5686.23583984375
+panel_product_month,2019-10,Tell Tale Beets,1731.6100000000001,pytorch_mlp,5163.017578125
+panel_product_month,2019-12,Tell Tale Beets,1731.6100000000001,pytorch_mlp,7799.00830078125
+panel_product_month,2019-08,Tell Tale Broccoli,16225.9,pytorch_mlp,13407.42578125
+panel_product_month,2019-09,Tell Tale Broccoli,11949.12,pytorch_mlp,18176.93359375
+panel_product_month,2019-10,Tell Tale Broccoli,12318.75,pytorch_mlp,20620.611328125
+panel_product_month,2019-11,Tell Tale Broccoli,23021.97,pytorch_mlp,19789.015625
+panel_product_month,2019-12,Tell Tale Broccoli,12318.75,pytorch_mlp,21489.34375
+panel_product_month,2019-08,Tell Tale Canned Peanuts,251.78,pytorch_mlp,7361.41796875
+panel_product_month,2019-10,Tell Tale Canned Peanuts,500.72,pytorch_mlp,8980.4228515625
+panel_product_month,2019-11,Tell Tale Canned Peanuts,136996.21,pytorch_mlp,9876.6630859375
+panel_product_month,2019-12,Tell Tale Canned Peanuts,500.72,pytorch_mlp,52883.39453125
+panel_product_month,2019-08,Tell Tale Cantelope,233.4,pytorch_mlp,7782.34716796875
+panel_product_month,2019-08,Tell Tale Dried Mushrooms,575.36,pytorch_mlp,8721.6123046875
+panel_product_month,2019-09,Tell Tale Dried Mushrooms,963.96,pytorch_mlp,9430.49609375
+panel_product_month,2019-10,Tell Tale Dried Mushrooms,270.41,pytorch_mlp,8940.9267578125
+panel_product_month,2019-11,Tell Tale Dried Mushrooms,338.03,pytorch_mlp,9013.7978515625
+panel_product_month,2019-12,Tell Tale Dried Mushrooms,490.71000000000004,pytorch_mlp,8866.90625
+panel_product_month,2019-09,Tell Tale Fancy Plums,6208.67,pytorch_mlp,10595.720703125
+panel_product_month,2019-10,Tell Tale Fancy Plums,3157.73,pytorch_mlp,12840.2109375
+panel_product_month,2019-11,Tell Tale Fancy Plums,1822.6999999999998,pytorch_mlp,11201.1435546875
+panel_product_month,2019-12,Tell Tale Fancy Plums,3157.73,pytorch_mlp,12095.453125
+panel_product_month,2019-08,Tell Tale Firm Tofu,3937.89,pytorch_mlp,12794.0634765625
+panel_product_month,2019-09,Tell Tale Firm Tofu,3577.64,pytorch_mlp,13485.85546875
+panel_product_month,2019-10,Tell Tale Firm Tofu,1441.5,pytorch_mlp,11852.11328125
+panel_product_month,2019-11,Tell Tale Firm Tofu,4573.39,pytorch_mlp,10764.869140625
+panel_product_month,2019-12,Tell Tale Firm Tofu,1933.55,pytorch_mlp,10955.4912109375
+panel_product_month,2019-09,Tell Tale Fresh Lima Beans,898.8,pytorch_mlp,7552.6884765625
+panel_product_month,2019-10,Tell Tale Fresh Lima Beans,429.03,pytorch_mlp,8605.537109375
+panel_product_month,2019-11,Tell Tale Fresh Lima Beans,214.52,pytorch_mlp,8659.0458984375
+panel_product_month,2019-12,Tell Tale Fresh Lima Beans,429.03,pytorch_mlp,8450.501953125
+panel_product_month,2019-08,Tell Tale Garlic,1502.69,pytorch_mlp,11165.6689453125
+panel_product_month,2019-09,Tell Tale Garlic,1528.95,pytorch_mlp,12486.552734375
+panel_product_month,2019-10,Tell Tale Garlic,1498.49,pytorch_mlp,11479.55078125
+panel_product_month,2019-11,Tell Tale Garlic,2914.95,pytorch_mlp,11323.95703125
+panel_product_month,2019-12,Tell Tale Garlic,1800.54,pytorch_mlp,12542.3046875
+panel_product_month,2019-09,Tell Tale Green Pepper,439.06,pytorch_mlp,8206.1962890625
+panel_product_month,2019-10,Tell Tale Green Pepper,227.54,pytorch_mlp,8857.580078125
+panel_product_month,2019-11,Tell Tale Green Pepper,417.11,pytorch_mlp,9006.33984375
+panel_product_month,2019-12,Tell Tale Green Pepper,227.54,pytorch_mlp,8817.587890625
+panel_product_month,2019-10,Tell Tale Lettuce,1976.53,pytorch_mlp,10781.08984375
+panel_product_month,2019-11,Tell Tale Lettuce,1109.1399999999999,pytorch_mlp,10826.2998046875
+panel_product_month,2019-12,Tell Tale Lettuce,1976.53,pytorch_mlp,9998.3681640625
+panel_product_month,2019-08,Tell Tale Limes,36193.12,pytorch_mlp,35479.05859375
+panel_product_month,2019-09,Tell Tale Limes,9846.0,pytorch_mlp,33852.58984375
+panel_product_month,2019-10,Tell Tale Limes,26571.43,pytorch_mlp,24961.3046875
+panel_product_month,2019-11,Tell Tale Limes,26711.92,pytorch_mlp,33093.48828125
+panel_product_month,2019-12,Tell Tale Limes,26843.78,pytorch_mlp,27686.453125
+panel_product_month,2019-08,Tell Tale Macintosh Apples,2426.15,pytorch_mlp,10247.556640625
+panel_product_month,2019-09,Tell Tale Macintosh Apples,2128.06,pytorch_mlp,10312.1689453125
+panel_product_month,2019-10,Tell Tale Macintosh Apples,1710.8600000000001,pytorch_mlp,10645.951171875
+panel_product_month,2019-11,Tell Tale Macintosh Apples,4486.0599999999995,pytorch_mlp,10668.95703125
+panel_product_month,2019-12,Tell Tale Macintosh Apples,1710.8600000000001,pytorch_mlp,11287.3701171875
+panel_product_month,2019-08,Tell Tale Mandarin Oranges,1577.85,pytorch_mlp,9857.462890625
+panel_product_month,2019-09,Tell Tale Mandarin Oranges,4513.66,pytorch_mlp,10236.1533203125
+panel_product_month,2019-10,Tell Tale Mandarin Oranges,1033.6,pytorch_mlp,11418.166015625
+panel_product_month,2019-11,Tell Tale Mandarin Oranges,4477.71,pytorch_mlp,10756.0078125
+panel_product_month,2019-12,Tell Tale Mandarin Oranges,1033.6,pytorch_mlp,11818.0283203125
+panel_product_month,2019-08,Tell Tale Mixed Nuts,215.36,pytorch_mlp,7317.59912109375
+panel_product_month,2019-09,Tell Tale Mushrooms,880.11,pytorch_mlp,9001.203125
+panel_product_month,2019-10,Tell Tale Mushrooms,246.9,pytorch_mlp,10398.4150390625
+panel_product_month,2019-11,Tell Tale Mushrooms,308.62,pytorch_mlp,8960.83984375
+panel_product_month,2019-12,Tell Tale Mushrooms,448.03999999999996,pytorch_mlp,8764.970703125
+panel_product_month,2019-08,Tell Tale New Potatos,541.21,pytorch_mlp,8050.17578125
+panel_product_month,2019-10,Tell Tale New Potatos,5553.35,pytorch_mlp,9287.3408203125
+panel_product_month,2019-11,Tell Tale New Potatos,429.48,pytorch_mlp,10529.572265625
+panel_product_month,2019-12,Tell Tale New Potatos,5553.35,pytorch_mlp,10218.193359375
+panel_product_month,2019-09,Tell Tale Party Nuts,227.56,pytorch_mlp,7654.8642578125
+panel_product_month,2019-08,Tell Tale Peaches,429.15,pytorch_mlp,7396.1611328125
+panel_product_month,2019-08,Tell Tale Prepared Salad,902.01,pytorch_mlp,3646.0986328125
+panel_product_month,2019-09,Tell Tale Prepared Salad,807.21,pytorch_mlp,6168.8564453125
+panel_product_month,2019-11,Tell Tale Prepared Salad,883.41,pytorch_mlp,5254.8603515625
+panel_product_month,2019-09,Tell Tale Summer Squash,2996.14,pytorch_mlp,12327.931640625
+panel_product_month,2019-10,Tell Tale Summer Squash,499.35,pytorch_mlp,12598.072265625
+panel_product_month,2019-12,Tell Tale Summer Squash,499.35,pytorch_mlp,13523.4736328125
+panel_product_month,2019-08,Tell Tale Sweet Onion,5295.54,pytorch_mlp,10477.333984375
+panel_product_month,2019-09,Tell Tale Sweet Onion,1641.1799999999998,pytorch_mlp,11853.0283203125
+panel_product_month,2019-10,Tell Tale Sweet Onion,1299.3000000000002,pytorch_mlp,12550.775390625
+panel_product_month,2019-11,Tell Tale Sweet Onion,2967.43,pytorch_mlp,11376.537109375
+panel_product_month,2019-12,Tell Tale Sweet Onion,1299.3000000000002,pytorch_mlp,10307.494140625
+panel_product_month,2019-08,Tell Tale Sweet Peas,1365.5700000000002,pytorch_mlp,8659.3896484375
+panel_product_month,2019-10,Tell Tale Sweet Peas,1470.93,pytorch_mlp,9794.7744140625
+panel_product_month,2019-11,Tell Tale Sweet Peas,561.42,pytorch_mlp,9521.9033203125
+panel_product_month,2019-12,Tell Tale Sweet Peas,1470.93,pytorch_mlp,9632.88671875
+panel_product_month,2019-08,Tell Tale Walnuts,1636.13,pytorch_mlp,7648.90185546875
+panel_product_month,2019-09,Tell Tale Walnuts,1507.63,pytorch_mlp,7821.72119140625
+panel_product_month,2019-10,Tell Tale Walnuts,9194.22,pytorch_mlp,9724.462890625
+panel_product_month,2019-11,Tell Tale Walnuts,211.23,pytorch_mlp,11453.7568359375
+panel_product_month,2019-12,Tell Tale Walnuts,9194.22,pytorch_mlp,11006.08203125
+panel_product_month,2019-10,Thresher Mints,202.57,pytorch_mlp,8763.759765625
+panel_product_month,2019-12,Thresher Mints,202.57,pytorch_mlp,8746.8984375
+panel_product_month,2019-08,Thresher Semi-Sweet Chocolate Bar,221.04,pytorch_mlp,8938.48828125
+panel_product_month,2019-10,Thresher Semi-Sweet Chocolate Bar,1976.3200000000002,pytorch_mlp,9169.4375
+panel_product_month,2019-11,Thresher Semi-Sweet Chocolate Bar,228.02,pytorch_mlp,10106.298828125
+panel_product_month,2019-12,Thresher Semi-Sweet Chocolate Bar,1976.3200000000002,pytorch_mlp,9925.2744140625
+panel_product_month,2019-08,Thresher Spicy Mints,12052.48,pytorch_mlp,29229.71484375
+panel_product_month,2019-09,Thresher Spicy Mints,23100.89,pytorch_mlp,24911.369140625
+panel_product_month,2019-10,Thresher Spicy Mints,18013.97,pytorch_mlp,32768.12109375
+panel_product_month,2019-11,Thresher Spicy Mints,21327.489999999998,pytorch_mlp,26842.923828125
+panel_product_month,2019-12,Thresher Spicy Mints,18013.97,pytorch_mlp,30897.40625
+panel_product_month,2019-10,Thresher White Chocolate Bar,710.2,pytorch_mlp,9237.458984375
+panel_product_month,2019-12,Thresher White Chocolate Bar,710.2,pytorch_mlp,9189.798828125
+panel_product_month,2019-08,Tip Top Lox,788.6500000000001,pytorch_mlp,8200.9560546875
+panel_product_month,2019-09,Tip Top Lox,234.45,pytorch_mlp,8365.322265625
+panel_product_month,2019-09,Token Apple Juice,1744.1100000000001,pytorch_mlp,8779.744140625
+panel_product_month,2019-10,Token Apple Juice,2932.53,pytorch_mlp,8951.564453125
+panel_product_month,2019-11,Token Apple Juice,1132.13,pytorch_mlp,9493.0244140625
+panel_product_month,2019-12,Token Apple Juice,2932.53,pytorch_mlp,10654.2685546875
+panel_product_month,2019-08,Token Cream Soda,255.34,pytorch_mlp,7064.52490234375
+panel_product_month,2019-11,Token Diet Soda,796.79,pytorch_mlp,10500.1875
+panel_product_month,2019-08,Token Orange Juice,2909.35,pytorch_mlp,11852.107421875
+panel_product_month,2019-09,Token Orange Juice,2313.97,pytorch_mlp,12524.1044921875
+panel_product_month,2019-10,Token Orange Juice,3128.8199999999997,pytorch_mlp,12742.111328125
+panel_product_month,2019-11,Token Orange Juice,2567.2799999999997,pytorch_mlp,12718.896484375
+panel_product_month,2019-12,Token Orange Juice,3418.22,pytorch_mlp,12480.2841796875
+panel_product_month,2019-08,Urban Large Brown Eggs,4857.84,pytorch_mlp,9687.486328125
+panel_product_month,2019-09,Urban Large Brown Eggs,966.74,pytorch_mlp,10052.529296875
+panel_product_month,2019-10,Urban Large Brown Eggs,2997.7799999999997,pytorch_mlp,10700.3857421875
+panel_product_month,2019-11,Urban Large Brown Eggs,2958.76,pytorch_mlp,11563.376953125
+panel_product_month,2019-12,Urban Large Brown Eggs,2997.7799999999997,pytorch_mlp,10478.068359375
+panel_product_month,2019-08,Urban Small Brown Eggs,252.68,pytorch_mlp,7165.26220703125
+panel_product_month,2019-10,Urban Small Brown Eggs,520.99,pytorch_mlp,8270.86328125
+panel_product_month,2019-11,Urban Small Brown Eggs,505.36,pytorch_mlp,8580.0849609375
+panel_product_month,2019-12,Urban Small Brown Eggs,520.99,pytorch_mlp,8529.2197265625
+panel_product_month,2019-08,Urban Small Eggs,2661.45,pytorch_mlp,8266.56640625
+panel_product_month,2019-09,Urban Small Eggs,703.52,pytorch_mlp,8459.515625
+panel_product_month,2019-10,Urban Small Eggs,2307.13,pytorch_mlp,9763.8544921875
+panel_product_month,2019-11,Urban Small Eggs,563.3,pytorch_mlp,10640.3291015625
+panel_product_month,2019-12,Urban Small Eggs,2307.13,pytorch_mlp,9584.8359375
+panel_product_month,2019-10,Walrus Chardonnay,331.88,pytorch_mlp,8837.3623046875
+panel_product_month,2019-12,Walrus Chardonnay,331.88,pytorch_mlp,8793.251953125
+panel_product_month,2019-08,Walrus Imported Beer,3416.19,pytorch_mlp,9035.3828125
+panel_product_month,2019-09,Walrus Imported Beer,265.42,pytorch_mlp,9479.74609375
+panel_product_month,2019-10,Walrus Imported Beer,1481.4,pytorch_mlp,9987.345703125
+panel_product_month,2019-11,Walrus Imported Beer,1797.27,pytorch_mlp,10522.13671875
+panel_product_month,2019-12,Walrus Imported Beer,1481.4,pytorch_mlp,9562.8388671875
+panel_product_month,2019-08,Walrus Light Beer,27806.230000000003,pytorch_mlp,12779.6640625
+panel_product_month,2019-09,Walrus Light Beer,23466.010000000002,pytorch_mlp,16856.4921875
+panel_product_month,2019-10,Walrus Light Beer,10729.17,pytorch_mlp,23359.228515625
+panel_product_month,2019-11,Walrus Light Beer,19847.9,pytorch_mlp,28427.6796875
+panel_product_month,2019-12,Walrus Light Beer,10729.17,pytorch_mlp,27127.2578125
+panel_product_month,2019-08,Walrus White Zinfandel Wine,68775.06999999999,pytorch_mlp,87529.2578125
+panel_product_month,2019-09,Walrus White Zinfandel Wine,149341.83,pytorch_mlp,91654.1484375
+panel_product_month,2019-10,Walrus White Zinfandel Wine,79988.16,pytorch_mlp,110570.4453125
+panel_product_month,2019-11,Walrus White Zinfandel Wine,77398.4,pytorch_mlp,83776.4375
+panel_product_month,2019-12,Walrus White Zinfandel Wine,79988.16,pytorch_mlp,98163.84375
+panel_product_month,2019-08,Washington Apple Juice,1466.97,pytorch_mlp,9133.6494140625
+panel_product_month,2019-09,Washington Apple Juice,727.5,pytorch_mlp,9855.271484375
+panel_product_month,2019-10,Washington Apple Juice,2383.56,pytorch_mlp,9888.900390625
+panel_product_month,2019-11,Washington Apple Juice,911.8199999999999,pytorch_mlp,10203.37109375
+panel_product_month,2019-12,Washington Apple Juice,2747.31,pytorch_mlp,9896.6630859375
+panel_product_month,2019-08,Washington Cranberry Juice,2478.4300000000003,pytorch_mlp,8909.69921875
+panel_product_month,2019-09,Washington Cranberry Juice,2486.31,pytorch_mlp,9666.6953125
+panel_product_month,2019-10,Washington Cranberry Juice,495.33000000000004,pytorch_mlp,10705.2470703125
+panel_product_month,2019-11,Washington Cranberry Juice,1045.3200000000002,pytorch_mlp,10232.7734375
+panel_product_month,2019-12,Washington Cranberry Juice,495.33000000000004,pytorch_mlp,9768.6259765625
+panel_product_month,2019-08,Washington Cream Soda,4821.83,pytorch_mlp,10321.7138671875
+panel_product_month,2019-09,Washington Cream Soda,2197.86,pytorch_mlp,12088.5888671875
+panel_product_month,2019-10,Washington Cream Soda,1178.84,pytorch_mlp,11568.16796875
+panel_product_month,2019-11,Washington Cream Soda,1798.73,pytorch_mlp,12154.4765625
+panel_product_month,2019-12,Washington Cream Soda,1178.84,pytorch_mlp,11192.0673828125
+panel_product_month,2019-08,Washington Diet Cola,737.63,pytorch_mlp,6949.0595703125
+panel_product_month,2019-10,Washington Diet Cola,412.76,pytorch_mlp,8133.5947265625
+panel_product_month,2019-12,Washington Diet Cola,412.76,pytorch_mlp,8132.33349609375
+panel_product_month,2019-09,Washington Diet Soda,33954.87,pytorch_mlp,41668.30859375
+panel_product_month,2019-10,Washington Diet Soda,23154.75,pytorch_mlp,36170.9765625
+panel_product_month,2019-11,Washington Diet Soda,293.43,pytorch_mlp,37104.29296875
+panel_product_month,2019-12,Washington Diet Soda,33294.97,pytorch_mlp,29430.921875
+panel_product_month,2019-08,Washington Mango Drink,1105.2,pytorch_mlp,10172.9990234375
+panel_product_month,2019-09,Washington Mango Drink,1755.05,pytorch_mlp,11206.77734375
+panel_product_month,2019-10,Washington Mango Drink,3638.99,pytorch_mlp,10521.03125
+panel_product_month,2019-11,Washington Mango Drink,2870.96,pytorch_mlp,11357.130859375
+panel_product_month,2019-12,Washington Mango Drink,3846.7599999999998,pytorch_mlp,11998.0419921875

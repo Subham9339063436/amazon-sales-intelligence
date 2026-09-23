@@ -1,0 +1,32 @@
+# Simple two-process setup: REST API + Streamlit dashboard from ONE image.
+#   docker compose up --build
+#   API:       http://localhost:5001/health
+#   Dashboard: http://localhost:8501
+services:
+  api:
+    build: .
+    image: amazon-sales-forecasting:latest
+    ports:
+      - "5001:5001"
+    healthcheck:
+      test:
+        [
+          "CMD",
+          "python",
+          "-c",
+          "import urllib.request; urllib.request.urlopen('http://127.0.0.1:5001/health', timeout=5)",
+        ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  dashboard:
+    image: amazon-sales-forecasting:latest
+    build: .
+    ports:
+      - "8501:8501"
+    command: >-
+      streamlit run app.py
+      --server.address 0.0.0.0
+      --server.port 8501
+      --server.headless true

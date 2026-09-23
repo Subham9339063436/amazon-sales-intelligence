@@ -1,0 +1,30 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Secrets / credentials
+*.json.key
+*service-account*.json
+credentials.json
+.env
+.env.*
+
+# Generated artifacts that should not be committed
+# (results/model_metrics.json IS committed as the record of actual metrics;
+#  keep the exclusion list limited to transient outputs.)
+build/
+dist/
+*.log

@@ -1,0 +1,18 @@
+# Runtime dependencies for scripts/run_training.py
+numpy>=2.0
+pandas>=2.2
+scikit-learn>=1.5
+lightgbm>=4.3
+prophet>=1.2
+
+# Testing
+pytest>=8.0
+
+# Dashboard (app.py)
+streamlit>=1.36
+# Phase 4 — Flask REST API (serves the PyTorch checkpoint)
+flask>=3.0
+gunicorn>=22.0
+
+# PyTorch forecasting model (Phase 3)
+torch>=2.2
